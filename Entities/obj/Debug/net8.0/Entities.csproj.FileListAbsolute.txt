@@ -1,0 +1,11 @@
+C:\Users\faria\source\repos\TicoSportSocksConnect\Entities\bin\Debug\net8.0\Entities.deps.json
+C:\Users\faria\source\repos\TicoSportSocksConnect\Entities\bin\Debug\net8.0\Entities.dll
+C:\Users\faria\source\repos\TicoSportSocksConnect\Entities\bin\Debug\net8.0\Entities.pdb
+C:\Users\faria\source\repos\TicoSportSocksConnect\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faria\source\repos\TicoSportSocksConnect\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+C:\Users\faria\source\repos\TicoSportSocksConnect\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+C:\Users\faria\source\repos\TicoSportSocksConnect\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\faria\source\repos\TicoSportSocksConnect\Entities\obj\Debug\net8.0\Entities.dll
+C:\Users\faria\source\repos\TicoSportSocksConnect\Entities\obj\Debug\net8.0\refint\Entities.dll
+C:\Users\faria\source\repos\TicoSportSocksConnect\Entities\obj\Debug\net8.0\Entities.pdb
+C:\Users\faria\source\repos\TicoSportSocksConnect\Entities\obj\Debug\net8.0\ref\Entities.dll

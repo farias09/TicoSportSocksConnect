@@ -1,0 +1,241 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tico Sport Socks Connect</title>
+
+    <link rel="shortcut icon" href="~/images/favicon.ico">
+
+    <script src="~/js/pages/layout.js"></script>
+    <link rel="stylesheet" href="~/css/bootstrap-rtl.min.css" />
+    <link rel="stylesheet" href="~/css/icons-rtl.min.css" /> 
+    <link href="~/libs/simplebar/simplebar.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="~/css/app-rtl.min.css" />
+</head>
+<body>
+
+    <div id="layout-wrapper">
+
+        <!-- Start topbar -->
+        <header id="page-topbar" class="bg-white">
+            <div class="navbar-header d-flex justify-content-between align-items-center px-4 py-2 shadow-sm">
+                <!-- Logo -->
+                <div class="navbar-logo-box">
+                    <a href="index.html" class="navbar-brand d-flex align-items-center">
+                        <img src="~/images/LOGOTSS.png" alt="logo-TSS" height="50">
+                    </a>
+                </div>
+                <!-- End Logo -->
+                <!-- Navigation Links -->
+                <nav class="navbar navbar-expand-lg">
+                    <ul class="navbar-nav me-auto">
+                        <li class="nav-item me-3">
+                            <!-- Add margin-end to increase spacing -->
+                            <a class="nav-link active text-dark fw-semibold" asp-controller="Home" asp-action="Index">Inicio</a>
+                        </li>
+                        <li class="nav-item me-3">
+                            <a class="nav-link text-dark fw-semibold" asp-controller="Caja" asp-action="Index">Gestión de Órdenes</a>
+                        </li>
+                        <li class="nav-item me-3">
+                            <a class="nav-link text-dark fw-semibold" asp-controller="Caja" asp-action="Index">Control de Cajas</a>
+                        </li>
+                        <li class="nav-item me-3">
+                            <a class="nav-link text-dark fw-semibold" asp-controller="Caja" asp-action="Index">Facturación</a>
+                        </li>
+                        <li class="nav-item me-3">
+                            <a class="nav-link text-dark fw-semibold" asp-controller="Caja" asp-action="Index">Reportes</a>
+                        </li>
+                    </ul>
+                </nav>
+                <!-- End Navigation Links -->
+                <!-- App Search -->
+                <div class="app-search d-flex align-items-center mx-3">
+                    <form class="d-flex">
+                        <div class="input-group rounded">
+                            <input type="text" class="form-control border-0 shadow-sm" placeholder="Buscar aquí" aria-label="Buscar">
+                            <button class="btn btn-light border shadow-sm" type="submit">
+                                <i class="fas fa-search"></i>
+                            </button>
+                        </div>
+                    </form>
+                </div>
+                <!-- End App Search -->
+                <!-- Profile -->
+                <div class="dropdown">
+                    <button type="button" class="btn btn-light shadow-sm rounded-circle p-0" id="page-header-user-dropdown" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <img class="rounded-circle avatar-2xs" src="~/images/users/avatar-6.png" alt="Perfil">
+                    </button>
+                    <div class="dropdown-menu dropdown-menu-end shadow">
+                        <div class="card border-0">
+                            <div class="card-header bg-primary text-white text-center">
+                                <h6 class="mb-1">Charlie Stone</h6>
+                                <small>admin@codubucks.in</small>
+                            </div>
+                            <div class="card-body p-0">
+                                <ul class="list-group list-group-flush">
+                                    <li class="list-group-item">
+                                        <a href="apps-contact.html" class="d-flex align-items-center">
+                                            <i class="far fa-address-card me-2"></i> Perfil
+                                        </a>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <a href="#!" class="d-flex align-items-center">
+                                            <i class="far fa-calendar-check me-2"></i> Tareas
+                                        </a>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <a href="#!" class="d-flex align-items-center">
+                                            <i class="far fa-bell me-2"></i> Notificaciones
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="card-footer text-center">
+                                <a href="auth-login.html" class="btn btn-danger w-100">Cerrar sesión</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Profile -->
+            </div>
+        </header>
+        <!-- End topbar -->
+        <!-- ========== Left Sidebar Start ========== -->
+        <div class="sidebar-left">
+
+            <div data-simplebar class="h-100">
+
+                <!--- Sidebar-menu -->
+                <div id="sidebar-menu">
+                    <!-- Left Menu Start -->
+                    <ul class="left-menu list-unstyled" id="side-menu">
+                        <li>
+                            <a href="index.html" class="">
+                                <i class="fas fa-desktop"></i>
+                                <span>Dashboard</span>
+                            </a>
+                        </li>
+
+                        <li class="menu-title">Elements</li>
+
+                        <li>
+                            <a href="javascript: void(0);" class="has-arrow ">
+                                <i class="fa fa-palette"></i>
+                                <span>Base</span>
+                            </a>
+                            <ul class="sub-menu" aria-expanded="false">
+                                <li><a href="ui-accordions.html"><i class="mdi mdi-checkbox-blank-circle align-middle"></i>Accordions</a></li>
+                                <li><a href="ui-alerts.html"><i class="mdi mdi-checkbox-blank-circle align-middle"></i> Alerts</a></li>
+                                <li><a href="ui-badge.html"><i class="mdi mdi-checkbox-blank-circle align-middle"></i> Badges</a></li>
+                                <li><a href="ui-breadcrumb.html"><i class="mdi mdi-checkbox-blank-circle align-middle"></i> Breadcrumb</a></li>
+                                <li><a href="ui-buttons.html"><i class="mdi mdi-checkbox-blank-circle align-middle"></i> Buttons</a></li>
+                                <li><a href="ui-buttons-group.html"><i class="mdi mdi-checkbox-blank-circle align-middle"></i> Button Group</a></li>
+                                <li><a href="ui-cards.html"><i class="mdi mdi-checkbox-blank-circle align-middle"></i> Cards</a></li>
+                                <li><a href="ui-colors.html"><i class="mdi mdi-checkbox-blank-circle align-middle"></i> Colors</a></li>
+                                <li><a href="ui-dropdowns.html"><i class="mdi mdi-checkbox-blank-circle align-middle"></i> Dropdowns</a></li>
+                                <li><a href="ui-list-group.html"><i class="mdi mdi-checkbox-blank-circle align-middle"></i> List Group</a></li>
+                                <li><a href="ui-maker.html"><i class="mdi mdi-checkbox-blank-circle align-middle"></i>Makers</a></li>
+                                <li><a href="ui-modals.html"><i class="mdi mdi-checkbox-blank-circle align-middle"></i> Modals</a></li>
+                                <li><a href="ui-nav.html"><i class="mdi mdi-checkbox-blank-circle align-middle"></i> Navigation</a></li>
+                                <li><a href="ui-offcanvas.html"><i class="mdi mdi-checkbox-blank-circle align-middle"></i> Offcavas</a></li>
+                                <li><a href="ui-pagination.html"><i class="mdi mdi-checkbox-blank-circle align-middle"></i> Pagination</a></li>
+                                <li><a href="ui-placeholder.html"><i class="mdi mdi-checkbox-blank-circle align-middle"></i> Placeholder</a></li>
+                                <li><a href="ui-popover.html"><i class="mdi mdi-checkbox-blank-circle align-middle"></i> Popover</a></li>
+                                <li><a href="ui-progress-bars.html"><i class="mdi mdi-checkbox-blank-circle align-middle"></i> Progress bar</a></li>
+                                <li><a href="ui-spinner.html"><i class="mdi mdi-checkbox-blank-circle align-middle"></i> Spinners</a></li>
+                                <li><a href="ui-tabs.html"><i class="mdi mdi-checkbox-blank-circle align-middle"></i> Tabs</a></li>
+                                <li><a href="ui-tables.html"><i class="mdi mdi-checkbox-blank-circle align-middle"></i> Tables</a></li>
+                                <li><a href="ui-tooltip.html"><i class="mdi mdi-checkbox-blank-circle align-middle"></i> Tooltips</a></li>
+                                <li><a href="ui-typography.html"><i class="mdi mdi-checkbox-blank-circle align-middle"></i> Typography</a></li>
+                            </ul>
+                        </li>
+
+                        <li>
+                            <a href="javascript: void(0);" class="has-arrow ">
+                                <i class="fa fa-adjust"></i>
+                                <span>Advanced</span>
+                            </a>
+                            <ul class="sub-menu" aria-expanded="false">
+                                <li><a href="ui-avatar.html"><i class="mdi mdi-checkbox-blank-circle align-middle"></i> Avatar</a></li>
+                                <li><a href="ui-blockUI.html"><i class="mdi mdi-checkbox-blank-circle align-middle"></i> Block UI</a></li>
+                                <li><a href="ui-slick-carousel.html"><i class="mdi mdi-checkbox-blank-circle align-middle"></i> Carousel</a></li>
+                                <li><a href="ui-chat.html"><i class="mdi mdi-checkbox-blank-circle align-middle"></i> Chat</a></li>
+                                <li><a href="ui-context-menu.html"><i class="mdi mdi-checkbox-blank-circle align-middle"></i> Context menu</a></li>
+                                <li><a href="ui-grid-nav.html"><i class="mdi mdi-checkbox-blank-circle align-middle"></i> Grid nav</a></li>
+                                <li><a href="ui-rich-list.html"><i class="mdi mdi-checkbox-blank-circle align-middle"></i> Rich list</a></li>
+                                <li><a href="ui-sortable.html"><i class="mdi mdi-checkbox-blank-circle align-middle"></i> Sortable</a></li>
+                                <li><a href="ui-sweet-alert.html"><i class="mdi mdi-checkbox-blank-circle align-middle"></i> Sweetalert 2</a></li>
+                                <li><a href="ui-timeline.html"><i class="mdi mdi-checkbox-blank-circle align-middle"></i> Timeline</a></li>
+                                <li><a href="ui-toaster.html"><i class="mdi mdi-checkbox-blank-circle align-middle"></i> Toaster</a></li>
+                                <li><a href="ui-treeview.html"><i class="mdi mdi-checkbox-blank-circle align-middle"></i> Tree View</a></li>
+                            </ul>
+                        </li>
+
+                        <li>
+                            <a href="javascript: void(0);" class="has-arrow">
+                                <i class="fa fa-icons"></i>
+                                <span>Icons</span>
+                            </a>
+                            <ul class="sub-menu" aria-expanded="false">
+                                <li><a href="icons-materialdesign.html"><i class="mdi mdi-checkbox-blank-circle align-middle"></i> Material Design</a></li>
+                                <li><a href="icons-fontawesome.html"><i class="mdi mdi-checkbox-blank-circle align-middle"></i> Font awesome 5</a></li>
+                            </ul>
+                        </li>
+
+                        <li>
+                            <a href="javascript: void(0);" class="has-arrow ">
+                                <i class="fa fa-window-restore"></i>
+                                <span>Cards</span>
+                            </a>
+                            <ul class="sub-menu" aria-expanded="false">
+                                <li><a href="ui-card-base.html"><i class="mdi mdi-checkbox-blank-circle align-middle"></i> Base</a></li>
+                                <li><a href="ui-card-draggable.html"><i class="mdi mdi-checkbox-blank-circle align-middle"></i> Draggable</a></li>
+                                <li><a href="ui-card-tab.html"><i class="mdi mdi-checkbox-blank-circle align-middle"></i> Tab</a></li>
+                                <li><a href="ui-card-tool.html"><i class="mdi mdi-checkbox-blank-circle align-middle"></i> Tool</a></li>
+                            </ul>
+                        </li>
+
+                        <li>
+                            <a href="javascript: void(0);" class="has-arrow ">
+                                <i class="fa fa-shapes"></i>
+                                <span>Widget</span>
+                            </a>
+                            <ul class="sub-menu" aria-expanded="false">
+                                <li><a href="widget-general.html"><i class="mdi mdi-checkbox-blank-circle align-middle"></i> General</a></li>
+                                <li><a href="widget-chart.html"><i class="mdi mdi-checkbox-blank-circle align-middle"></i> Chart</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+                <!-- Sidebar -->
+            </div>
+        </div>
+        <!-- Left Sidebar End -->
+        <div class="main-content">
+            <div class="page-content">
+                    @RenderBody()       
+            </div>
+        </div>
+
+
+
+
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2024 - Frontend - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/libs/jquery/jquery.min.js"></script>
+    <script src="~/libs/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="~/libs/metismenu/metisMenu.min.js"></script>
+    <script src="~/libs/simplebar/simplebar.min.js"></script>
+    <script src="~/libs/node-waves/waves.min.js"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
