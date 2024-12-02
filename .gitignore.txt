@@ -1,0 +1,16 @@
+# Archivos y carpetas temporales de Visual Studio
+.vs/
+bin/
+obj/
+
+# Otros archivos específicos del entorno
+*.pdb
+*.exe
+*.dll
+*.cache
+*.runtimeconfig.json
+*.sourcelink.json
+
+# Archivos estáticos generados
+Frontend/wwwroot/images/PPs/
+Frontend/wwwroot/images/Productos/

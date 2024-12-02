@@ -1,0 +1,178 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!doctype html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8" />
+    <title>Pricing | Clivax - Admin & Dashboard Template</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta content="Premium Multipurpose Admin & Dashboard Template" name="description" />
+    <meta content="Codebucks" name="author" />
+    <!-- App favicon -->
+    <link rel="shortcut icon" href="~/images/favicon.ico">
+
+
+    <!-- dark layout js -->
+    <script src="~/js/pages/layout.js"></script>
+    <link rel="stylesheet" href="~/css/bootstrap.css" />
+    <link rel="stylesheet" href="~/css/app.css" />
+    <link rel="stylesheet" href="~/css/icons.css" />
+
+    <style>
+        body {
+            font-family: "Futura Bk BT", sans-serif;
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <!-- Begin page -->
+    <div class="container mt-4">
+        <!-- Encabezado principal -->
+        <div class="text-center mb-4">
+            <h1>Gestión de Facturas</h1>
+            <p class="text-muted">Administra y genera órdenes de compra de forma eficiente</p>
+        </div>
+
+        <!-- Sección de estadísticas rápidas -->
+        <div class="row mb-4">
+            <div class="col-md-3">
+                <div class="card text-center">
+                    <div class="card-body">
+                        <h5>Total Órdenes de Compra</h5>
+                        <h2 class="text-primary">45</h2>
+                        <p class="text-muted mb-0">Generadas este mes</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="card text-center">
+                    <div class="card-body">
+                        <h5>Órdenes de Compra Pendientes</h5>
+                        <h2 class="text-warning">8</h2>
+                        <p class="text-muted mb-0">Aún no enviadas</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="card text-center">
+                    <div class="card-body">
+                        <h5>Órdenes de Compra Recurrentes</h5>
+                        <h2 class="text-success">12</h2>
+                        <p class="text-muted mb-0">Activas</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="card text-center">
+                    <div class="card-body">
+                        <h5>Última Orden de Compra</h5>
+                        <h2 class="text-secondary">#1045</h2>
+                        <p class="text-muted mb-0">01/12/2024</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Panel principal de opciones -->
+        <div class="row mb-4">
+            <!-- Generar orden de compra -->
+            <div class="col-md-4">
+                <div class="card text-center">
+                    <div class="card-body">
+                        <h5>Nueva Orden de Compra</h5>
+                        <p class="text-muted">Crea una nueva orden desde cero</p>
+                        <button class="btn btn-primary btn-lg w-100">Generar Orden</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Consultar órdenes -->
+            <div class="col-md-4">
+                <div class="card text-center">
+                    <div class="card-body">
+                        <h5>Consultar Órdenes</h5>
+                        <p class="text-muted">Revisa y gestiona órdenes existentes</p>
+                        <button class="btn btn-info btn-lg w-100">Ver Órdenes</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Órdenes recurrentes -->
+            <div class="col-md-4">
+                <div class="card text-center">
+                    <div class="card-body">
+                        <h5>Órdenes Recurrentes</h5>
+                        <p class="text-muted">Configura órdenes automáticas</p>
+                        <button class="btn btn-success btn-lg w-100">Configurar Recurrentes</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Tabla de consulta de órdenes -->
+        <div class="card">
+            <div class="card-body">
+                <h5>Historial de Órdenes</h5>
+                <p class="text-muted">Consulta todas las órdenes generadas</p>
+                <table class="table table-bordered table-hover">
+                    <thead class="table-light">
+                        <tr>
+                            <th># Orden</th>
+                            <th>Cliente</th>
+                            <th>Fecha</th>
+                            <th>Estado</th>
+                            <th>Total</th>
+                            <th>Acciones</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>#1045</td>
+                            <td>Gustavo Torres </td>
+                            <td>01/12/2024</td>
+                            <td><span class="badge bg-success">Completada</span></td>
+                            <td>₡15,000</td>
+                            <td>
+                                <button class="btn btn-sm btn-secondary">Ver</button>
+                                <button class="btn btn-sm btn-danger">Anular</button>
+                                <button class="btn btn-sm btn-primary">Enviar</button>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>#1044</td>
+                            <td>Michael Hernández</td>
+                            <td>30/11/2024</td>
+                            <td><span class="badge bg-warning">Pendiente</span></td>
+                            <td>₡8,000</td>
+                            <td>
+                                <button class="btn btn-sm btn-secondary">Ver</button>
+                                <button class="btn btn-sm btn-danger">Anular</button>
+                                <button class="btn btn-sm btn-primary">Enviar</button>
+                            </td>
+                        </tr>
+                        
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+
+        <!-- JAVASCRIPT -->
+        <script src="~/libs/jquery/jquery.min.js"></script>
+        <script src="~/libs/bootstrap/js/bootstrap.bundle.min.js"></script>
+        <script src="~/libs/metismenu/metisMenu.min.js"></script>
+        <script src="~/libs/simplebar/simplebar.min.js"></script>
+        <script src="~/libs/node-waves/waves.min.js"></script>
+
+        <script src="~/js/app.js"></script>
+
+</body>
+
+</html>

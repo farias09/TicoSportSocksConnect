@@ -44,3 +44,4 @@ C:\Users\faria\source\repos\TicoSportSocksConnect\Frontend\obj\Debug\net8.0\refi
 C:\Users\faria\source\repos\TicoSportSocksConnect\Frontend\obj\Debug\net8.0\Frontend.pdb
 C:\Users\faria\source\repos\TicoSportSocksConnect\Frontend\obj\Debug\net8.0\Frontend.genruntimeconfig.cache
 C:\Users\faria\source\repos\TicoSportSocksConnect\Frontend\obj\Debug\net8.0\ref\Frontend.dll
+C:\Users\faria\source\repos\TicoSportSocksConnect\Frontend\obj\Debug\net8.0\Frontend.sourcelink.json

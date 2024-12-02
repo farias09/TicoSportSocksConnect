@@ -323,7 +323,7 @@ body[data-layout=horizontal] .footer {
 }
 #sidebar-menu .has-arrow:after {
   content: "\f0140";
-  font-family: "Material Design Icons";
+  font-family: "Futura Light";
   display: block;
   float: left;
   -webkit-transition: -webkit-transform 0.2s;
@@ -340,7 +340,7 @@ body[data-layout=horizontal] .footer {
   font-size: 13.3px;
   -webkit-transition: all 0.4s;
   transition: all 0.4s;
-  font-family: "Wix Madefor Text", sans-serif;
+  font-family: "Futura", sans-serif;
   font-weight: 500;
 }
 #sidebar-menu ul li a i {
@@ -390,7 +390,7 @@ body[data-layout=horizontal] .footer {
   text-transform: uppercase;
   color: var(--bs-body-color);
   font-weight: 600;
-  font-family: "Wix Madefor Text", sans-serif;
+  font-family: "Futura", sans-serif;
   opacity: 0.5;
 }
 
@@ -685,7 +685,7 @@ body[data-sidebar-size=small].sidebar-collpsed .footer {
   position: relative;
   padding: 1rem 1.3rem;
   color: #74788d;
-  font-family: "Wix Madefor Text", sans-serif;
+  font-family: "Futura", sans-serif;
 }
 .topnav .navbar-nav .nav-link i {
   font-size: 15px;
@@ -1557,7 +1557,7 @@ body[data-layout=horizontal][data-layout-size=boxed] .container-fluid, body[data
   color: var(--bs-secondary-color);
 }
 .breadcrumb .breadcrumb-item::before {
-  font-family: "Material Design Icons";
+  font-family: "Futura";
 }
 .breadcrumb .breadcrumb-item .breadcrumb-icon {
   margin-left: 0.5rem;
@@ -1573,7 +1573,7 @@ body[data-layout=horizontal][data-layout-size=boxed] .container-fluid, body[data
   padding-left: 0.5rem;
 }
 [dir=rtl] .breadcrumb-item + .breadcrumb-item::before {
-  font-family: "Material Design Icons";
+  font-family: "Futura";
   padding-right: 0;
   content: "\f0141";
 }
@@ -3197,7 +3197,7 @@ a {
 }
 
 .font-family-secondary {
-  font-family: "Wix Madefor Text", sans-serif;
+  font-family: "Futura", sans-serif;
 }
 
 .fs-10 {
@@ -3612,7 +3612,7 @@ h4,
 h5,
 h6 {
   color: var(--bs-body-color);
-  font-family: "Wix Madefor Text", sans-serif;
+  font-family: "Futura", sans-serif;
 }
 
 a {
@@ -4323,7 +4323,7 @@ a {
   color: var(--bs-body-color) !important;
 }
 .context-menu-icon.context-menu-icon-mdi::before {
-  font-family: "Material Design Icons" !important;
+  font-family: "Futura" !important;
   font-size: 16px !important;
 }
 
@@ -5073,7 +5073,7 @@ a {
 .select2-result-repository__stargazers .fa.fa-flash::before,
 .select2-result-repository__watchers .fa.fa-flash::before {
   content: "\f0e7";
-  font-family: "Font Awesome 5 Free";
+  font-family: "Futura";
 }
 
 .select2-results__option--highlighted .select2-result-repository__forks,
@@ -5867,7 +5867,7 @@ table.dataTable tbody tr > .dtfc-fixed-left {
 }
 .table-rep-plugin .checkbox-row input[type=checkbox]:checked + label::after {
   content: "\f00c";
-  font-family: "Font Awesome 5 Free";
+  font-family: "Futura";
   font-weight: 900;
 }
 .table-rep-plugin .checkbox-row input[type=checkbox]:disabled + label::before {
@@ -6206,11 +6206,10 @@ table.dataTable tbody tr > .dtfc-fixed-left {
 
 /* MaterialDesignIcons.com */
 @font-face {
-  font-family: "Material Design Icons";
-  src: url("../fonts/materialdesignicons-webfont.eot?v=5.9.55");
-  src: url("../fonts/materialdesignicons-webfont.eot?#iefix&v=5.9.55") format("embedded-opentype"), url("../fonts/materialdesignicons-webfont.woff2?v=5.9.55") format("woff2"), url("../fonts/materialdesignicons-webfont.woff?v=5.9.55") format("woff"), url("../fonts/materialdesignicons-webfont.ttf?v=5.9.55") format("truetype");
-  font-weight: normal;
-  font-style: normal;
+    font-family: "Futura Light";
+    src: url("../fonts/FuturaLight.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
 }
 .mdi:before,
 .mdi-set {
@@ -36296,43 +36295,43 @@ readers do not read off random characters that represent icons */
 }
 
 @font-face {
-  font-family: "Font Awesome 5 Brands";
-  font-style: normal;
-  font-weight: 400;
-  font-display: block;
-  src: url("../fonts/fa-brands-400.eot");
-  src: url("../fonts/fa-brands-400.eot?#iefix") format("embedded-opentype"), url("../fonts/fa-brands-400.woff2") format("woff2"), url("../fonts/fa-brands-400.woff") format("woff"), url("../fonts/fa-brands-400.ttf") format("truetype"), url("../fonts/fa-brands-400.svg#fontawesome") format("svg");
+    font-family: "Futura Light";
+    font-style: normal;
+    font-weight: 400;
+    font-display: block;
+    src: url("../fonts/Futura Light font.ttf") format("truetype");
 }
+
 .fab {
-  font-family: "Font Awesome 5 Brands";
-  font-weight: 400;
+    font-family: "Futura Light";
+    font-weight: 400;
 }
 
 @font-face {
-  font-family: "Font Awesome 5 Free";
-  font-style: normal;
-  font-weight: 400;
-  font-display: block;
-  src: url("../fonts/fa-regular-400.eot");
-  src: url("../fonts/fa-regular-400.eot?#iefix") format("embedded-opentype"), url("../fonts/fa-regular-400.woff2") format("woff2"), url("../fonts/fa-regular-400.woff") format("woff"), url("../fonts/fa-regular-400.ttf") format("truetype"), url("../fonts/fa-regular-400.svg#fontawesome") format("svg");
+    font-family: "Futura Light";
+    font-style: normal;
+    font-weight: 400;
+    font-display: block;
+    src: url("../fonts/Futura Light font.ttf") format("truetype");
 }
+
 .far {
   font-family: "Font Awesome 5 Free";
   font-weight: 400;
 }
 
 @font-face {
-  font-family: "Font Awesome 5 Free";
-  font-style: normal;
-  font-weight: 900;
-  font-display: block;
-  src: url("../fonts/fa-solid-900.eot");
-  src: url("../fonts/fa-solid-900.eot?#iefix") format("embedded-opentype"), url("../fonts/fa-solid-900.woff2") format("woff2"), url("../fonts/fa-solid-900.woff") format("woff"), url("../fonts/fa-solid-900.ttf") format("truetype"), url("../fonts/fa-solid-900.svg#fontawesome") format("svg");
+    font-family: "Futura Light";
+    font-style: normal;
+    font-weight: 400;
+    font-display: block;
+    src: url("../fonts/Futura Light font.ttf") format("truetype");
 }
+
 .fa,
 .fas {
-  font-family: "Font Awesome 5 Free";
-  font-weight: 900;
+    font-family: "Futura Light";
+    font-weight: 900;
 }
 
 .authentication-bg {
@@ -36732,7 +36731,7 @@ readers do not read off random characters that represent icons */
 }
 .message-list .checkbox-wrapper-mail label:before {
   content: "\f012c";
-  font-family: "Material Design Icons";
+  font-family: "Futura";
   top: 0;
   height: 20px;
   color: #292d32;
@@ -37255,7 +37254,7 @@ readers do not read off random characters that represent icons */
 .counter-number {
   font-size: 36px;
   font-weight: 700;
-  font-family: "Wix Madefor Text", sans-serif;
+  font-family: "Futura", sans-serif;
   text-align: center;
   display: -webkit-box;
   display: -ms-flexbox;
