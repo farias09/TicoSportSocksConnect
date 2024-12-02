@@ -5,20 +5,27 @@
 <html lang="en">
 
 <head>
-
     <meta charset="utf-8" />
     <title>Dashboard | Clivax - Admin & Dashboard Template</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta content="Premium Multipurpose Admin & Dashboard Template" name="description" />
     <meta content="Codebucks" name="author" />
-    <!-- App favicon -->
     <link rel="shortcut icon" href="~/images/favicon.ico">
+
     <!-- dark layout js -->
     <script src="~/js/pages/layout.js"></script>
+
+    <!-- Bootstrap and app CSS -->
     <link rel="stylesheet" href="~/css/bootstrap.css" />
     <link rel="stylesheet" href="~/css/app.css" />
     <link rel="stylesheet" href="~/css/icons.css" />
 
+    <!-- Incluir Futura Light directamente -->
+    <style>
+        body {
+            font-family: "Futura Bk BT", sans-serif;
+        }
+    </style>
 </head>
 
 <body>
@@ -42,9 +49,7 @@
                         <div class="col-xxl-9">
                             <div class="card">
                                 <div class="card-header">
-                                    <div class="card-icon">
-                                        <i class="fas fa-cart-plus fs-14 text-muted"></i>
-                                    </div>
+                                    
                                     <h4 class="card-title mb-0">Ventas Generales - Echa un vistazo a cómo está el negocio actualmente</h4>
                                 </div>
                                 <div class="card-body">
@@ -94,25 +99,8 @@
                                 <div class="col-12">
                                     <div class="card" style="height: 495px; overflow: hidden auto;" data-simplebar="init">
                                         <div class="card-header">
-                                            <div class="card-icon text-muted"><i class="fas fa-sync-alt fs-14"></i></div>
                                             <h3 class="card-title">Compras Recientes</h3>
-                                            <div class="card-addon dropdown">
-                                                <button class="btn btn-label-secondary btn-sm dropdown-toggle" data-bs-toggle="dropdown"> <i class="fas fa-filter fs-12 align-middle ms-1"></i></button>
-                                                <div class="dropdown-menu dropdown-menu-end dropdown-menu-animated">
-                                                    <a class="dropdown-item" href="#">
-                                                        <div class="dropdown-icon"><i class="fa fa-poll"></i></div>
-                                                        <span class="dropdown-content">Today</span>
-                                                    </a>
-                                                    <a class="dropdown-item" href="#">
-                                                        <div class="dropdown-icon"><i class="fa fa-chart-pie"></i></div>
-                                                        <span class="dropdown-content">Yesterday</span>
-                                                    </a>
-                                                    <a class="dropdown-item" href="#">
-                                                        <div class="dropdown-icon"><i class="fa fa-chart-line"></i></div>
-                                                        <span class="dropdown-content">Week</span>
-                                                    </a>
-                                                </div>
-                                            </div>
+                                           
                                         </div>
                                         <div class="card-body">
                                             <div class="table-responsive-md">
@@ -244,7 +232,7 @@
                                 <div class="col-xxl-12 order-4 order-xxl-2">
                                     <div class="card">
                                         <div class="card-header">
-                                            <div class="card-icon text-muted"><i class="fa fa-bell"></i></div>
+                                            
                                             <h3 class="card-title">Notificaciones</h3>  
                                         </div>
                                         <div class="card-body">

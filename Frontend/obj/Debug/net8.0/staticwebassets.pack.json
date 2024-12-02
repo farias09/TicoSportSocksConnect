@@ -69,6 +69,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\Futura Bold font.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Futura Bold font.ttf"
+    },
+    {
+      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\FuturaLight.ttf",
+      "PackagePath": "staticwebassets\\fonts\\FuturaLight.ttf"
+    },
+    {
       "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\fa-brands-400.eot",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400.eot"
     },
@@ -179,6 +187,42 @@
     {
       "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\LOGOTSS.png",
       "PackagePath": "staticwebassets\\images\\LOGOTSS.png"
+    },
+    {
+      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\PPs\\PP1.jpg",
+      "PackagePath": "staticwebassets\\images\\PPs\\PP1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\PPs\\PP2.jpg",
+      "PackagePath": "staticwebassets\\images\\PPs\\PP2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\PPs\\PP3.jpg",
+      "PackagePath": "staticwebassets\\images\\PPs\\PP3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\PPs\\PP4.jpeg",
+      "PackagePath": "staticwebassets\\images\\PPs\\PP4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\Productos\\Producto1.jpg",
+      "PackagePath": "staticwebassets\\images\\Productos\\Producto1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\Productos\\Producto2.jpg",
+      "PackagePath": "staticwebassets\\images\\Productos\\Producto2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\Productos\\Producto3.jpg",
+      "PackagePath": "staticwebassets\\images\\Productos\\Producto3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\Productos\\Producto4.jpg",
+      "PackagePath": "staticwebassets\\images\\Productos\\Producto4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\Productos\\Producto5.jpg",
+      "PackagePath": "staticwebassets\\images\\Productos\\Producto5.jpg"
     },
     {
       "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\auth-bg.jpg",
