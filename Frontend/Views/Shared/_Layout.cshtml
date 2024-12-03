@@ -44,7 +44,10 @@
                             <a class="nav-link text-dark fw-semibold" asp-controller="Factura" asp-action="Index">Facturación</a>
                         </li>
                         <li class="nav-item me-3">
-                            <a class="nav-link text-dark fw-semibold" asp-controller="Caja" asp-action="Index">Reportes</a>
+                            <a class="nav-link text-dark fw-semibold" asp-controller="Reportes" asp-action="Index">Reportes</a>
+                        </li>
+                        <li class="nav-item me-3">
+                            <a class="nav-link text-dark fw-semibold" asp-controller="Inventario" asp-action="Index">Inventario</a>
                         </li>
                     </ul>
                 </nav>
@@ -142,7 +145,7 @@
                                 <span>Órdenes</span>
                             </a>
                             <ul class="sub-menu" aria-expanded="false">
-                                <li><a href="icons-materialdesign.html"><i class="mdi mdi-checkbox-blank-circle align-middle"></i> Ver órdenes</a></li>
+                                <li><a class="nav-link text-dark fw-semibold" asp-controller="ListaOrdenes" asp-action="Index">Ver Ordenes</a></li>
                                 <li><a href="icons-fontawesome.html"><i class="mdi mdi-checkbox-blank-circle align-middle"></i> Editar órdenes</a></li>
                                 <li><a href="icons-fontawesome.html"><i class="mdi mdi-checkbox-blank-circle align-middle"></i> Eliminar órdenes</a></li>
                             </ul>

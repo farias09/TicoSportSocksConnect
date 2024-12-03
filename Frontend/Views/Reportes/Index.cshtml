@@ -1,0 +1,181 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!doctype html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8" />
+    <title>Pricing | Clivax - Admin & Dashboard Template</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta content="Premium Multipurpose Admin & Dashboard Template" name="description" />
+    <meta content="Codebucks" name="author" />
+    <!-- App favicon -->
+    <link rel="shortcut icon" href="~/images/favicon.ico">
+
+
+    <!-- dark layout js -->
+    <script src="~/js/pages/layout.js"></script>
+    <link rel="stylesheet" href="~/css/bootstrap.css" />
+    <link rel="stylesheet" href="~/css/app.css" />
+    <link rel="stylesheet" href="~/css/icons.css" />
+
+</head>
+
+<body>
+
+    <!-- Begin page -->
+    <div class="container mt-4">
+        <!-- Encabezado principal -->
+        <div class="text-center mb-4">
+            <h1>Reportes y Estadísticas</h1>
+            <p class="text-muted">Analiza el desempeño de tus ventas e inventarios con estadísticas avanzadas</p>
+        </div>
+
+        <!-- Resumen general -->
+        <div class="row mb-4">
+            <div class="col-md-3">
+                <div class="card text-center">
+                    <div class="card-body">
+                        <h5>Total de Ventas</h5>
+                        <h2 class="text-primary">₡1,200,000</h2>
+                        <p class="text-muted">Este mes</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="card text-center">
+                    <div class="card-body">
+                        <h5>Promedio Mensual</h5>
+                        <h2 class="text-success">₡300,000</h2>
+                        <p class="text-muted">Promedio en los últimos 4 meses</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="card text-center">
+                    <div class="card-body">
+                        <h5>Crecimiento</h5>
+                        <h2 class="text-info">+15%</h2>
+                        <p class="text-muted">Comparado con el mes pasado</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="card text-center">
+                    <div class="card-body">
+                        <h5>Inventario Actual</h5>
+                        <h2 class="text-warning">420 productos</h2>
+                        <p class="text-muted">Stock disponible</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Gráficos y tablas -->
+        <div class="row mb-4">
+            <!-- Gráficos de ventas -->
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Tendencia de Ventas</h5>
+                        <p class="text-muted">Evolución de ventas en el tiempo</p>
+                        <div>
+                            <!-- Aquí iría el gráfico -->
+                            <img src="https://via.placeholder.com/500x300?text=Gráfico+de+Rotación+de+Inventarios" alt="Gráfico de inventarios" class="img-fluid">
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <!-- Gráfico de rotación de inventarios -->
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Rotación de Inventarios</h5>
+                        <p class="text-muted">Productos con mayor rotación</p>
+                        <div>
+                            <!-- Aquí iría el gráfico -->
+                            <img src="https://via.placeholder.com/500x300?text=Gráfico+de+Rotación+de+Inventarios" alt="Gráfico de inventarios" class="img-fluid">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Estadísticas por producto y exportar reportes -->
+        <div class="row">
+            <!-- Productos destacados -->
+            <div class="col-md-8">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Desempeño por Producto</h5>
+                        <p class="text-muted">Productos más vendidos y su desempeño</p>
+                        <table class="table table-hover">
+                            <thead class="table-light">
+                                <tr>
+                                    <th>Producto</th>
+                                    <th>Unidades Vendidas</th>
+                                    <th>Ingresos</th>
+                                    <th>Rotación</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Producto A</td>
+                                    <td>150</td>
+                                    <td>₡450,000</td>
+                                    <td>Alta</td>
+                                </tr>
+                                <tr>
+                                    <td>Producto B</td>
+                                    <td>90</td>
+                                    <td>₡270,000</td>
+                                    <td>Media</td>
+                                </tr>
+                                <tr>
+                                    <td>Producto C</td>
+                                    <td>30</td>
+                                    <td>₡90,000</td>
+                                    <td>Baja</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Exportar reportes -->
+            <div class="col-md-4">
+                <div class="card text-center">
+                    <div class="card-body">
+                        <h5>Exportar Reportes</h5>
+                        <p class="text-muted">Descarga los reportes en diferentes formatos</p>
+                        <button class="btn btn-primary w-100 mb-2">Exportar PDF</button>
+                        <button class="btn btn-secondary w-100 mb-2">Exportar Excel</button>
+                        <button class="btn btn-success w-100">Exportar CSV</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+        <!-- JAVASCRIPT -->
+        <script src="~/libs/jquery/jquery.min.js"></script>
+        <script src="~/libs/bootstrap/js/bootstrap.bundle.min.js"></script>
+        <script src="~/libs/metismenu/metisMenu.min.js"></script>
+        <script src="~/libs/simplebar/simplebar.min.js"></script>
+        <script src="~/libs/node-waves/waves.min.js"></script>
+
+        <script src="~/js/app.js"></script>
+        <!-- apexcharts -->
+        <script src="~/libs/apexcharts/apexcharts.min.js"></script>
+
+        <script src="~/js/pages/dashboard.init.js"></script>
+
+</body>
+
+</html>
