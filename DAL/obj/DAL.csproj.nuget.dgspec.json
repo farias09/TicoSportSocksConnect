@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\DAL\\DAL.csproj": {}
+    "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\DAL\\DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\DAL\\DAL.csproj": {
+    "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\DAL\\DAL.csproj",
-        "packagesPath": "C:\\Users\\faria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\DAL\\obj\\",
+        "projectPath": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\ferva\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\faria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ferva\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -61,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
