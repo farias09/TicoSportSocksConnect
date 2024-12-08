@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3FCB5A45-9AEB-4325-BDF8-2748AB756B52}|Frontend\\Frontend.csproj|c:\\users\\faria\\source\\repos\\ticosportsocksconnect\\frontend\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FCB5A45-9AEB-4325-BDF8-2748AB756B52}|Frontend\\Frontend.csproj|solutionrelative:frontend\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCB5A45-9AEB-4325-BDF8-2748AB756B52}|Frontend\\Frontend.csproj|c:\\users\\faria\\source\\repos\\ticosportsocksconnect\\frontend\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FCB5A45-9AEB-4325-BDF8-2748AB756B52}|Frontend\\Frontend.csproj|solutionrelative:frontend\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3FCB5A45-9AEB-4325-BDF8-2748AB756B52}|Frontend\\Frontend.csproj|c:\\users\\faria\\source\\repos\\ticosportsocksconnect\\frontend\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3FCB5A45-9AEB-4325-BDF8-2748AB756B52}|Frontend\\Frontend.csproj|solutionrelative:frontend\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FCB5A45-9AEB-4325-BDF8-2748AB756B52}|Frontend\\Frontend.csproj|c:\\users\\faria\\source\\repos\\ticosportsocksconnect\\frontend\\views\\listaordenes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3FCB5A45-9AEB-4325-BDF8-2748AB756B52}|Frontend\\Frontend.csproj|solutionrelative:frontend\\views\\listaordenes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3FCB5A45-9AEB-4325-BDF8-2748AB756B52}|Frontend\\Frontend.csproj|c:\\users\\faria\\source\\repos\\ticosportsocksconnect\\frontend\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FCB5A45-9AEB-4325-BDF8-2748AB756B52}|Frontend\\Frontend.csproj|solutionrelative:frontend\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FCB5A45-9AEB-4325-BDF8-2748AB756B52}|Frontend\\Frontend.csproj|c:\\users\\faria\\source\\repos\\ticosportsocksconnect\\frontend\\views\\ordenes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3FCB5A45-9AEB-4325-BDF8-2748AB756B52}|Frontend\\Frontend.csproj|solutionrelative:frontend\\views\\ordenes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3FCB5A45-9AEB-4325-BDF8-2748AB756B52}|Frontend\\Frontend.csproj|c:\\users\\faria\\source\\repos\\ticosportsocksconnect\\frontend\\views\\factura\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FCB5A45-9AEB-4325-BDF8-2748AB756B52}|Frontend\\Frontend.csproj|solutionrelative:frontend\\views\\factura\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FCB5A45-9AEB-4325-BDF8-2748AB756B52}|Frontend\\Frontend.csproj|c:\\users\\faria\\source\\repos\\ticosportsocksconnect\\frontend\\controllers\\listaordenescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FCB5A45-9AEB-4325-BDF8-2748AB756B52}|Frontend\\Frontend.csproj|solutionrelative:frontend\\controllers\\listaordenescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3FCB5A45-9AEB-4325-BDF8-2748AB756B52}|Frontend\\Frontend.csproj|c:\\users\\faria\\source\\repos\\ticosportsocksconnect\\frontend\\controllers\\ordenescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FCB5A45-9AEB-4325-BDF8-2748AB756B52}|Frontend\\Frontend.csproj|solutionrelative:frontend\\controllers\\ordenescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3FCB5A45-9AEB-4325-BDF8-2748AB756B52}|Frontend\\Frontend.csproj|c:\\users\\faria\\source\\repos\\ticosportsocksconnect\\frontend\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FCB5A45-9AEB-4325-BDF8-2748AB756B52}|Frontend\\Frontend.csproj|solutionrelative:frontend\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3FCB5A45-9AEB-4325-BDF8-2748AB756B52}|Frontend\\Frontend.csproj|c:\\users\\faria\\source\\repos\\ticosportsocksconnect\\frontend\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -34,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 62,
+          "SelectedChildIndex": 58,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "app.css",
               "DocumentMoniker": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\css\\app.css",
               "RelativeDocumentMoniker": "Frontend\\wwwroot\\css\\app.css",
@@ -280,65 +284,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\Views\\ListaOrdenes\\Index.cshtml",
-              "RelativeDocumentMoniker": "Frontend\\Views\\ListaOrdenes\\Index.cshtml",
-              "ToolTip": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\Views\\ListaOrdenes\\Index.cshtml",
-              "RelativeToolTip": "Frontend\\Views\\ListaOrdenes\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGYAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\Views\\Clientes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\Views\\Clientes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\Views\\Clientes\\Index.cshtml",
+              "RelativeToolTip": "Frontend\\Views\\Clientes\\Index.cshtml",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAAAIsAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T21:38:58.04Z",
+              "WhenOpened": "2024-12-08T16:09:26.083Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ListaOrdenesController.cs",
-              "DocumentMoniker": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\Controllers\\ListaOrdenesController.cs",
-              "RelativeDocumentMoniker": "Frontend\\Controllers\\ListaOrdenesController.cs",
-              "ToolTip": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\Controllers\\ListaOrdenesController.cs",
-              "RelativeToolTip": "Frontend\\Controllers\\ListaOrdenesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Frontend\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Frontend\\Controllers\\ClientesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T21:38:49.67Z",
+              "WhenOpened": "2024-12-08T16:06:45.796Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "OrdenesController.cs",
-              "DocumentMoniker": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\Controllers\\OrdenesController.cs",
-              "RelativeDocumentMoniker": "Frontend\\Controllers\\OrdenesController.cs",
-              "ToolTip": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\Controllers\\OrdenesController.cs",
-              "RelativeToolTip": "Frontend\\Controllers\\OrdenesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAXAAAA",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\Views\\Factura\\Index.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\Views\\Factura\\Index.cshtml",
+              "ToolTip": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\Views\\Factura\\Index.cshtml",
+              "RelativeToolTip": "Frontend\\Views\\Factura\\Index.cshtml",
+              "ViewState": "AQIAAKMBAAAAAAAAAAAcwM8BAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T15:46:18.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Frontend\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Frontend\\Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T21:37:47.799Z",
+              "WhenOpened": "2024-12-08T15:41:55.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\Views\\Usuarios\\Index.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\Views\\Usuarios\\Index.cshtml",
+              "ToolTip": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\Views\\Usuarios\\Index.cshtml",
+              "RelativeToolTip": "Frontend\\Views\\Usuarios\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAIApwB8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T15:35:36.98Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\Views\\Ordenes\\Index.cshtml",
-              "RelativeDocumentMoniker": "Frontend\\Views\\Ordenes\\Index.cshtml",
-              "ToolTip": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\Views\\Ordenes\\Index.cshtml",
-              "RelativeToolTip": "Frontend\\Views\\Ordenes\\Index.cshtml",
-              "ViewState": "AQIAAJ4AAAAAAAAAAAAYwNYAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T21:36:17.603Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Frontend\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Frontend\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABYAAAA",
+              "ViewState": "AQIAAGUAAAAAAAAAAAARwIsAAABWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-02T05:31:25.86Z",
               "EditorCaption": ""
