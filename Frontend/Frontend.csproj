@@ -184,4 +184,8 @@
     <Folder Include="wwwroot\libs\twitter-bootstrap-wizard\bootstrap\js\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.7" />
+  </ItemGroup>
+
 </Project>
