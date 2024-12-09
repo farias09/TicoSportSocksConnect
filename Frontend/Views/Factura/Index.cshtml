@@ -87,7 +87,10 @@
                     <div class="card-body">
                         <h5>Nueva Orden de Compra</h5>
                         <p class="text-muted">Crea una nueva orden desde cero</p>
-                        <button class="btn btn-primary btn-lg w-100">Generar Orden</button>
+                        <!-- Botón que abre el modal -->
+                        <button class="btn btn-primary btn-lg w-100" data-bs-toggle="modal" data-bs-target="#nuevaOrdenModal">
+                            Generar Orden
+                        </button>
                     </div>
                 </div>
             </div>
@@ -98,10 +101,13 @@
                     <div class="card-body">
                         <h5>Consultar Órdenes</h5>
                         <p class="text-muted">Revisa y gestiona órdenes existentes</p>
-                        <button class="btn btn-info btn-lg w-100">Ver Órdenes</button>
+                        <button class="btn btn-info btn-lg w-100" data-bs-toggle="modal" data-bs-target="#consultarOrdenesModal">
+                            Ver Órdenes
+                        </button>
                     </div>
                 </div>
             </div>
+
 
             <!-- Órdenes recurrentes -->
             <div class="col-md-4">
@@ -109,11 +115,13 @@
                     <div class="card-body">
                         <h5>Órdenes Recurrentes</h5>
                         <p class="text-muted">Configura órdenes automáticas</p>
-                        <button class="btn btn-success btn-lg w-100">Configurar Recurrentes</button>
+                        <button class="btn btn-success btn-lg w-100" data-bs-toggle="modal" data-bs-target="#ordenesRecurrentesModal">
+                            Configurar Recurrentes
+                        </button>
                     </div>
                 </div>
             </div>
-        </div>
+
 
         <!-- Tabla de consulta de órdenes -->
         <div class="card">
@@ -139,9 +147,9 @@
                             <td><span class="badge bg-success">Completada</span></td>
                             <td>₡15,000</td>
                             <td>
-                                <button class="btn btn-sm btn-secondary">Ver</button>
-                                <button class="btn btn-sm btn-danger">Anular</button>
-                                <button class="btn btn-sm btn-primary">Enviar</button>
+                                    <button class="btn btn-sm btn-secondary" data-bs-toggle="modal" data-bs-target="#verOrdenModal">Ver</button>
+                                    <button class="btn btn-sm btn-danger" data-bs-toggle="modal" data-bs-target="#confirmarAnulacionModal">Anular</button>
+                                    <button class="btn btn-sm btn-primary" data-bs-toggle="modal" data-bs-target="#enviarCorreoModal">Enviar</button>
                             </td>
                         </tr>
                         <tr>
@@ -151,9 +159,9 @@
                             <td><span class="badge bg-warning">Pendiente</span></td>
                             <td>₡8,000</td>
                             <td>
-                                <button class="btn btn-sm btn-secondary">Ver</button>
-                                <button class="btn btn-sm btn-danger">Anular</button>
-                                <button class="btn btn-sm btn-primary">Enviar</button>
+                                    <button class="btn btn-sm btn-secondary" data-bs-toggle="modal" data-bs-target="#verOrdenModal">Ver</button>
+                                    <button class="btn btn-sm btn-danger" data-bs-toggle="modal" data-bs-target="#confirmarAnulacionModal">Anular</button>
+                                    <button class="btn btn-sm btn-primary" data-bs-toggle="modal" data-bs-target="#enviarCorreoModal">Enviar</button>
                             </td>
                         </tr>
                         <tr>
@@ -163,9 +171,9 @@
                             <td><span class="badge bg-success">Completada</span></td>
                             <td>₡5,000</td>
                             <td>
-                                <button class="btn btn-sm btn-secondary">Ver</button>
-                                <button class="btn btn-sm btn-danger">Anular</button>
-                                <button class="btn btn-sm btn-primary">Enviar</button>
+                                <button class="btn btn-sm btn-secondary" data-bs-toggle="modal" data-bs-target="#verOrdenModal">Ver</button>
+                                <button class="btn btn-sm btn-danger" data-bs-toggle="modal" data-bs-target="#confirmarAnulacionModal">Anular</button>
+                                <button class="btn btn-sm btn-primary" data-bs-toggle="modal" data-bs-target="#enviarCorreoModal">Enviar</button>
                             </td>
                         </tr>
                         <tr>
@@ -175,9 +183,9 @@
                             <td><span class="badge bg-warning">Pendiente</span></td>
                             <td>₡7,000</td>
                             <td>
-                                <button class="btn btn-sm btn-secondary">Ver</button>
-                                <button class="btn btn-sm btn-danger">Anular</button>
-                                <button class="btn btn-sm btn-primary">Enviar</button>
+                                <button class="btn btn-sm btn-secondary" data-bs-toggle="modal" data-bs-target="#verOrdenModal">Ver</button>
+                                <button class="btn btn-sm btn-danger" data-bs-toggle="modal" data-bs-target="#confirmarAnulacionModal">Anular</button>
+                                <button class="btn btn-sm btn-primary" data-bs-toggle="modal" data-bs-target="#enviarCorreoModal">Enviar</button>
                             </td>
                         </tr>
                         <tr>
@@ -187,9 +195,9 @@
                             <td><span class="badge bg-success">Completada</span></td>
                             <td>₡2,000</td>
                             <td>
-                                <button class="btn btn-sm btn-secondary">Ver</button>
-                                <button class="btn btn-sm btn-danger">Anular</button>
-                                <button class="btn btn-sm btn-primary">Enviar</button>
+                                <button class="btn btn-sm btn-secondary" data-bs-toggle="modal" data-bs-target="#verOrdenModal">Ver</button>
+                                <button class="btn btn-sm btn-danger" data-bs-toggle="modal" data-bs-target="#confirmarAnulacionModal">Anular</button>
+                                <button class="btn btn-sm btn-primary" data-bs-toggle="modal" data-bs-target="#enviarCorreoModal">Enviar</button>
                             </td>
                         </tr>
                         <tr>
@@ -199,9 +207,10 @@
                             <td><span class="badge bg-success">Completada</span></td>
                             <td>₡8,000</td>
                             <td>
-                                <button class="btn btn-sm btn-secondary">Ver</button>
-                                <button class="btn btn-sm btn-danger">Anular</button>
-                                <button class="btn btn-sm btn-primary">Enviar</button>
+                                <button class="btn btn-sm btn-secondary" data-bs-toggle="modal" data-bs-target="#verOrdenModal">Ver</button>
+                                <button class="btn btn-sm btn-danger" data-bs-toggle="modal" data-bs-target="#confirmarAnulacionModal">Anular</button>
+                                <button class="btn btn-sm btn-primary" data-bs-toggle="modal" data-bs-target="#enviarCorreoModal">Enviar</button>
+
                             </td>
                         </tr>
                         <tr>
@@ -211,9 +220,9 @@
                             <td><span class="badge bg-danger">Anulada</span></td>
                             <td>₡25,000</td>
                             <td>
-                                <button class="btn btn-sm btn-secondary">Ver</button>
-                                <button class="btn btn-sm btn-danger">Anular</button>
-                                <button class="btn btn-sm btn-primary">Enviar</button>
+                                 <button class="btn btn-sm btn-secondary" data-bs-toggle="modal" data-bs-target="#verOrdenModal">Ver</button>
+                                 <button class="btn btn-sm btn-danger" data-bs-toggle="modal" data-bs-target="#confirmarAnulacionModal">Anular</button>
+                                 <button class="btn btn-sm btn-primary" data-bs-toggle="modal" data-bs-target="#enviarCorreoModal">Enviar</button>
                             </td>
                         </tr>
                         
@@ -223,6 +232,223 @@
         </div>
     </div>
 
+    <!-- Modal para nueva orden -->
+    <div class="modal fade" id="nuevaOrdenModal" tabindex="-1" aria-labelledby="nuevaOrdenModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="nuevaOrdenModalLabel">Nueva Orden de Compra</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <!-- Formulario para capturar datos de la nueva orden -->
+                    <form>
+                        <div class="mb-3">
+                            <label for="proveedor" class="form-label">Proveedor</label>
+                            <input type="text" class="form-control" id="proveedor" placeholder="Ingrese el nombre del proveedor">
+                        </div>
+                        <div class="mb-3">
+                            <label for="productos" class="form-label">Productos</label>
+                            <textarea class="form-control" id="productos" rows="3" placeholder="Detalle los productos"></textarea>
+                        </div>
+                        <div class="mb-3">
+                            <label for="total" class="form-label">Total</label>
+                            <input type="number" class="form-control" id="total" placeholder="Total de la orden">
+                        </div>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
+                    <button type="button" class="btn btn-primary">Guardar Orden</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal para consultar órdenes -->
+    <div class="modal fade" id="consultarOrdenesModal" tabindex="-1" aria-labelledby="consultarOrdenesModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="consultarOrdenesModalLabel">Órdenes Recientes</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <!-- Tabla con datos ficticios -->
+                    <div class="table-responsive">
+                        <table class="table table-bordered">
+                            <thead class="table-light">
+                                <tr>
+                                    <th># Orden</th>
+                                    <th>Cliente</th>
+                                    <th>Estado</th>
+                                    <th>Fecha</th>
+                                    <th>Total</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>001</td>
+                                    <td>María López</td>
+                                    <td><span class="badge bg-success">Confirmado</span></td>
+                                    <td>01/12/2024</td>
+                                    <td>₡45,000</td>
+                                </tr>
+                                <tr>
+                                    <td>002</td>
+                                    <td>Juan Pérez</td>
+                                    <td><span class="badge bg-warning">Pendiente</span></td>
+                                    <td>02/12/2024</td>
+                                    <td>₡15,000</td>
+                                </tr>
+                                <tr>
+                                    <td>003</td>
+                                    <td>Venta Directa</td>
+                                    <td><span class="badge bg-danger">Anulado</span></td>
+                                    <td>03/12/2024</td>
+                                    <td>₡0</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        <!-- Modal para Órdenes Recurrentes -->
+        <div class="modal fade" id="ordenesRecurrentesModal" tabindex="-1" aria-labelledby="ordenesRecurrentesModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="ordenesRecurrentesModalLabel">Configurar Órdenes Recurrentes</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <!-- Formulario para configurar órdenes recurrentes -->
+                        <form>
+                            <!-- Selección de productos -->
+                            <div class="mb-3">
+                                <label for="productoRecurrente" class="form-label">Producto</label>
+                                <input type="text" class="form-control" id="productoRecurrente" placeholder="Ingresa el SKU o nombre del producto">
+                            </div>
+
+                            <!-- Cantidad -->
+                            <div class="mb-3">
+                                <label for="cantidadRecurrente" class="form-label">Cantidad</label>
+                                <input type="number" class="form-control" id="cantidadRecurrente" placeholder="Cantidad">
+                            </div>
+
+                            <!-- Frecuencia -->
+                            <div class="mb-3">
+                                <label for="frecuenciaRecurrente" class="form-label">Frecuencia</label>
+                                <select class="form-select" id="frecuenciaRecurrente">
+                                    <option value="diaria">Diaria</option>
+                                    <option value="semanal">Semanal</option>
+                                    <option value="mensual">Mensual</option>
+                                </select>
+                            </div>
+
+                            <!-- Fechas de inicio y fin -->
+                            <div class="mb-3">
+                                <label for="fechaInicio" class="form-label">Fecha de Inicio</label>
+                                <input type="date" class="form-control" id="fechaInicio">
+                            </div>
+                            <div class="mb-3">
+                                <label for="fechaFin" class="form-label">Fecha de Fin (opcional)</label>
+                                <input type="date" class="form-control" id="fechaFin">
+                            </div>
+                        </form>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
+                        <a href="/Factura/Index" class="btn btn-success">Guardar Configuración</a>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <!-- Modal para ver detalles de la orden -->
+        <div class="modal fade" id="verOrdenModal" tabindex="-1" aria-labelledby="verOrdenModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="verOrdenModalLabel">Detalles de la Orden #1039</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <p><strong>Cliente:</strong> Andrés Artavia</p>
+                        <p><strong>Fecha:</strong> 28/11/2024</p>
+                        <p><strong>Estado:</strong> <span class="badge bg-danger">Anulada</span></p>
+                        <p><strong>Total:</strong> ₡25,000</p>
+                        <h6>Productos:</h6>
+                        <ul>
+                            <li>Producto 1 - Cantidad: 2</li>
+                            <li>Producto 2 - Cantidad: 1</li>
+                        </ul>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Modal de confirmación -->
+        <div class="modal fade" id="confirmarAnulacionModal" tabindex="-1" aria-labelledby="confirmarAnulacionModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="confirmarAnulacionModalLabel">Confirmar Anulación</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <p>¿Estás seguro de que deseas anular la orden #1039?</p>
+                        <p><strong>Esta acción no se puede deshacer.</strong></p>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
+                        <button type="button" class="btn btn-danger">Confirmar Anulación</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Modal para enviar correo -->
+        <div class="modal fade" id="enviarCorreoModal" tabindex="-1" aria-labelledby="enviarCorreoModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="enviarCorreoModalLabel">Enviar Orden por Correo</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <form>
+                            <div class="mb-3">
+                                <label for="correoDestino" class="form-label">Correo de Destino</label>
+                                <input type="email" class="form-control" id="correoDestino" placeholder="correo@ejemplo.com">
+                            </div>
+                            <div class="mb-3">
+                                <label for="formatoEnvio" class="form-label">Formato</label>
+                                <select class="form-select" id="formatoEnvio">
+                                    <option value="pdf">PDF</option>
+                                    <option value="excel">Excel</option>
+                                    <option value="texto">Texto Plano</option>
+                                </select>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
+                        <button type="button" class="btn btn-primary">Enviar Correo</button>
+                    </div>
+                </div>
+            </div>
+        </div>
 
         <!-- JAVASCRIPT -->
         <script src="~/libs/jquery/jquery.min.js"></script>
