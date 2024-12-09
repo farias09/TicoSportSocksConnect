@@ -34,7 +34,7 @@
         <!-- Panel superior: Filtros y acciones -->
         <div class="row mb-4">
             <div class="col-md-4">
-                <button class="btn btn-primary btn-lg w-100">Registrar Nuevo Producto</button>
+                <a class="btn btn-primary btn-lg w-100" asp-controller="Inventario" asp-action="RegistrarProducto">Registrar Nuevo Producto</a>
             </div>
             <div class="col-md-4">
                 <input type="text" class="form-control" placeholder="Buscar por nombre..." />
@@ -75,8 +75,8 @@
                             <td><span class="badge bg-primary">300</span></td>
                             <td><span class="badge bg-success">Activo</span></td>
                             <td>
-                                <button class="btn btn-sm btn-secondary">Editar</button>
-                                <button class="btn btn-sm btn-danger">Inactivar</button>
+                                <a class="btn btn-sm btn-secondary" asp-controller="Inventario" asp-action="EditarProducto">Editar</a>
+                                <button class="btn btn-sm btn-danger btn-toggle-status">Inactivar</button>
                             </td>
                         </tr>
                         <tr>
@@ -87,7 +87,7 @@
                             <td><span class="badge bg-success">Activo</span></td>
                             <td>
                                 <button class="btn btn-sm btn-secondary">Editar</button>
-                                <button class="btn btn-sm btn-danger">Inactivar</button>
+                                <button class="btn btn-sm btn-danger btn-toggle-status">Inactivar</button>
                             </td>
                         </tr>
                         <tr>
@@ -98,7 +98,7 @@
                             <td><span class="badge bg-success">Activo</span></td>
                             <td>
                                 <button class="btn btn-sm btn-secondary">Editar</button>
-                                <button class="btn btn-sm btn-danger">Inactivar</button>
+                                <button class="btn btn-sm btn-danger btn-toggle-status">Inactivar</button>
                             </td>
                         </tr>
                         <tr>
@@ -109,7 +109,7 @@
                             <td><span class="badge bg-success">Activo</span></td>
                             <td>
                                 <button class="btn btn-sm btn-secondary">Editar</button>
-                                <button class="btn btn-sm btn-danger">Inactivar</button>
+                                <button class="btn btn-sm btn-danger btn-toggle-status">Inactivar</button>
                             </td>
                         </tr>
                         <tr>
@@ -120,7 +120,7 @@
                             <td><span class="badge bg-success">Activo</span></td>
                             <td>
                                 <button class="btn btn-sm btn-secondary">Editar</button>
-                                <button class="btn btn-sm btn-danger">Inactivar</button>
+                                <button class="btn btn-sm btn-danger btn-toggle-status">Inactivar</button>
                             </td>
                         </tr>
                         <tr>
@@ -131,7 +131,7 @@
                             <td><span class="badge bg-success">Activo</span></td>
                             <td>
                                 <button class="btn btn-sm btn-secondary">Editar</button>
-                                <button class="btn btn-sm btn-danger">Inactivar</button>
+                                <button class="btn btn-sm btn-danger btn-toggle-status">Inactivar</button>
                             </td>
                         </tr>
                         <tr>
@@ -142,7 +142,7 @@
                             <td><span class="badge bg-success">Activo</span></td>
                             <td>
                                 <button class="btn btn-sm btn-secondary">Editar</button>
-                                <button class="btn btn-sm btn-danger">Inactivar</button>
+                                <button class="btn btn-sm btn-danger btn-toggle-status">Inactivar</button>
                             </td>
                         </tr>
                         <tr>
@@ -153,7 +153,7 @@
                             <td><span class="badge bg-success">Activo</span></td>
                             <td>
                                 <button class="btn btn-sm btn-secondary">Editar</button>
-                                <button class="btn btn-sm btn-danger">Inactivar</button>
+                                <button class="btn btn-sm btn-danger btn-toggle-status">Inactivar</button>
                             </td>
                         </tr>
                         <tr>
@@ -164,7 +164,7 @@
                             <td><span class="badge bg-success">Activo</span></td>
                             <td>
                                 <button class="btn btn-sm btn-secondary">Editar</button>
-                                <button class="btn btn-sm btn-danger">Inactivar</button>
+                                <button class="btn btn-sm btn-danger btn-toggle-status">Inactivar</button>
                             </td>
                         </tr>
                         <tr>
@@ -175,7 +175,7 @@
                             <td><span class="badge bg-success">Activo</span></td>
                             <td>
                                 <button class="btn btn-sm btn-secondary">Editar</button>
-                                <button class="btn btn-sm btn-danger">Inactivar</button>
+                                <button class="btn btn-sm btn-danger btn-toggle-status">Inactivar</button>
                             </td>
                         </tr>
                         <tr>
@@ -186,7 +186,7 @@
                             <td><span class="badge bg-success">Activo</span></td>
                             <td>
                                 <button class="btn btn-sm btn-secondary">Editar</button>
-                                <button class="btn btn-sm btn-danger">Inactivar</button>
+                                <button class="btn btn-sm btn-danger btn-toggle-status">Inactivar</button>
                             </td>
                         </tr>
                     </tbody>
@@ -216,8 +216,72 @@
     <script src="~/libs/metismenu/metisMenu.min.js"></script>
     <script src="~/libs/simplebar/simplebar.min.js"></script>
     <script src="~/libs/node-waves/waves.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 
     <script src="~/js/app.js"></script>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            const toggleButtons = document.querySelectorAll(".btn-toggle-status");
+
+            toggleButtons.forEach(button => {
+                button.addEventListener("click", () => {
+                    // Mostrar la alerta de confirmación
+                    Swal.mixin({
+                        customClass: {
+                            confirmButton: "btn btn-success",
+                            cancelButton: "btn btn-danger"
+                        },
+                        buttonsStyling: false
+                    }).fire({
+                        title: "¿Estás seguro?",
+                        text: "¡No podrás revertir este cambio!",
+                        icon: "warning",
+                        showCancelButton: true,
+                        confirmButtonText: "Sí, cambiar estado",
+                        cancelButtonText: "No, cancelar",
+                        reverseButtons: true
+                    }).then((result) => {
+                        if (result.isConfirmed) {
+                            const row = button.closest("tr"); 
+                            const statusCell = row.querySelector("td:nth-child(5) span"); 
+
+                            // Cambiar el estado y el texto del botón
+                            if (button.classList.contains("btn-danger")) {
+                                // Cambiar a Activar
+                                button.classList.remove("btn-danger");
+                                button.classList.add("btn-success");
+                                button.textContent = "Activar";
+
+                                // Cambiar visualmente el estado a Inactivo
+                                statusCell.textContent = "Inactivo";
+                                statusCell.classList.remove("bg-success");
+                                statusCell.classList.add("bg-danger");
+                            } else {
+                                // Cambiar a Inactivar
+                                button.classList.remove("btn-success");
+                                button.classList.add("btn-danger");
+                                button.textContent = "Inactivar";
+
+                                // Cambiar visualmente el estado a Activo
+                                statusCell.textContent = "Activo";
+                                statusCell.classList.remove("bg-danger");
+                                statusCell.classList.add("bg-success");
+                            }
+                        } else if (result.dismiss === Swal.DismissReason.cancel) {
+                            Swal.fire({
+                                title: "Cancelado",
+                                text: "El cambio de estado ha sido cancelado.",
+                                icon: "error"
+                            });
+                        }
+                    });
+                });
+            });
+        });
+
+    </script>
+
 
 </body>
 
