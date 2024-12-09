@@ -18,7 +18,6 @@
     <Folder Include="wwwroot\libs\admin-resources\bootstrap-filestyle\" />
     <Folder Include="wwwroot\libs\admin-resources\jquery.vectormap\maps\" />
     <Folder Include="wwwroot\libs\admin-resources\rwd-table\" />
-    <Folder Include="wwwroot\libs\apexcharts\locales\" />
     <Folder Include="wwwroot\libs\block-ui\node_modules\jquery\" />
     <Folder Include="wwwroot\libs\bootstrap-datepicker\css\" />
     <Folder Include="wwwroot\libs\bootstrap-datepicker\js\" />
@@ -185,7 +184,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.7" />
+    <Content Update="wwwroot\libs\apexcharts\locales\area_chart_irregular.js">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
   </ItemGroup>
 
 </Project>

@@ -1545,17 +1545,26 @@
           "Swashbuckle.AspNetCore": "6.4.0"
         },
         "runtime": {
-          "Backend.dll": {}
+          "Backend.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "DAL/1.0.0": {
         "runtime": {
-          "DAL.dll": {}
+          "DAL.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Entities/1.0.0": {
         "runtime": {
-          "Entities.dll": {}
+          "Entities.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
