@@ -10,6 +10,25 @@ namespace Frontend.Controllers
         {
             return View();
         }
+        public IActionResult DetallesChat()
+        {
+            return View();
+        }
+
+        public IActionResult VentaFisica()
+        {
+            return View();
+        }
+
+        public IActionResult DetalleProducto()
+        {
+            return View();
+        }
+
+        public IActionResult OrdenesPendientes()
+        {
+            return View();
+        }
 
         // GET: OrdenesController/Details/5
         public ActionResult Details(int id)

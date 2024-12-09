@@ -1,1387 +1,1403 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Frontend.bundle.scp.css",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Frontend.bundle.scp.css",
       "PackagePath": "staticwebassets\\Frontend.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\css\\app-rtl.min.css",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\css\\app-rtl.min.css",
       "PackagePath": "staticwebassets\\css\\app-rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\css\\app-rtl.min.css.map",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\css\\app-rtl.min.css.map",
       "PackagePath": "staticwebassets\\css\\app-rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\css\\app.css",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\css\\app.min.css",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\css\\app.min.css",
       "PackagePath": "staticwebassets\\css\\app.min.css"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\css\\app.min.css.map",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\css\\app.min.css.map",
       "PackagePath": "staticwebassets\\css\\app.min.css.map"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\css\\bootstrap-rtl.min.css",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\css\\bootstrap-rtl.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\css\\bootstrap-rtl.min.css.map",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\css\\bootstrap-rtl.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap-rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\css\\bootstrap.css",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\css\\icons-rtl.min.css",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\css\\icons-rtl.min.css",
       "PackagePath": "staticwebassets\\css\\icons-rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\css\\icons-rtl.min.css.map",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\css\\icons-rtl.min.css.map",
       "PackagePath": "staticwebassets\\css\\icons-rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\css\\icons.css",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\css\\icons.css",
       "PackagePath": "staticwebassets\\css\\icons.css"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\css\\icons.min.css",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\css\\icons.min.css",
       "PackagePath": "staticwebassets\\css\\icons.min.css"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\css\\icons.min.css.map",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\css\\icons.min.css.map",
       "PackagePath": "staticwebassets\\css\\icons.min.css.map"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\Futura Bold font.ttf",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\Futura Bold font.ttf",
       "PackagePath": "staticwebassets\\fonts\\Futura Bold font.ttf"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\FuturaLight.ttf",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\FuturaLight.ttf",
       "PackagePath": "staticwebassets\\fonts\\FuturaLight.ttf"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\fa-brands-400.eot",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\fa-brands-400.eot",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400.eot"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\fa-brands-400.svg",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\fa-brands-400.svg",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400.svg"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\fa-brands-400.ttf",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\fa-brands-400.ttf",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400.ttf"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\fa-brands-400.woff",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\fa-brands-400.woff",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\fa-brands-400.woff2",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\fa-brands-400.woff2",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff2"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\fa-regular-400.eot",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\fa-regular-400.eot",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400.eot"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\fa-regular-400.svg",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\fa-regular-400.svg",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400.svg"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\fa-regular-400.ttf",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\fa-regular-400.ttf",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400.ttf"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\fa-regular-400.woff",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\fa-regular-400.woff",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\fa-regular-400.woff2",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\fa-regular-400.woff2",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff2"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\fa-solid-900.eot",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\fa-solid-900.eot",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900.eot"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\fa-solid-900.svg",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\fa-solid-900.svg",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900.svg"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\fa-solid-900.ttf",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\fa-solid-900.ttf",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900.ttf"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\fa-solid-900.woff",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\fa-solid-900.woff",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\fa-solid-900.woff2",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\fa-solid-900.woff2",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff2"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\inter-bold.woff",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\inter-bold.woff",
       "PackagePath": "staticwebassets\\fonts\\inter-bold.woff"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\inter-bold.woff2",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\inter-bold.woff2",
       "PackagePath": "staticwebassets\\fonts\\inter-bold.woff2"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\inter-light.woff",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\inter-light.woff",
       "PackagePath": "staticwebassets\\fonts\\inter-light.woff"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\inter-light.woff2",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\inter-light.woff2",
       "PackagePath": "staticwebassets\\fonts\\inter-light.woff2"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\inter-medium.woff",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\inter-medium.woff",
       "PackagePath": "staticwebassets\\fonts\\inter-medium.woff"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\inter-medium.woff2",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\inter-medium.woff2",
       "PackagePath": "staticwebassets\\fonts\\inter-medium.woff2"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\inter-regular.woff",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\inter-regular.woff",
       "PackagePath": "staticwebassets\\fonts\\inter-regular.woff"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\inter-regular.woff2",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\inter-regular.woff2",
       "PackagePath": "staticwebassets\\fonts\\inter-regular.woff2"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\materialdesignicons-webfont.eot",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\materialdesignicons-webfont.eot",
       "PackagePath": "staticwebassets\\fonts\\materialdesignicons-webfont.eot"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\materialdesignicons-webfont.ttf",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\materialdesignicons-webfont.ttf",
       "PackagePath": "staticwebassets\\fonts\\materialdesignicons-webfont.ttf"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\materialdesignicons-webfont.woff",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\materialdesignicons-webfont.woff",
       "PackagePath": "staticwebassets\\fonts\\materialdesignicons-webfont.woff"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\materialdesignicons-webfont.woff2",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\fonts\\materialdesignicons-webfont.woff2",
       "PackagePath": "staticwebassets\\fonts\\materialdesignicons-webfont.woff2"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\LOGOTSS.png",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\LOGOTSS.png",
       "PackagePath": "staticwebassets\\images\\LOGOTSS.png"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\PPs\\PP1.jpg",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\PPs\\PP1.jpg",
       "PackagePath": "staticwebassets\\images\\PPs\\PP1.jpg"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\PPs\\PP2.jpg",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\PPs\\PP2.jpg",
       "PackagePath": "staticwebassets\\images\\PPs\\PP2.jpg"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\PPs\\PP3.jpg",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\PPs\\PP3.jpg",
       "PackagePath": "staticwebassets\\images\\PPs\\PP3.jpg"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\PPs\\PP4.jpeg",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\PPs\\PP4.jpeg",
       "PackagePath": "staticwebassets\\images\\PPs\\PP4.jpeg"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\Productos\\Producto1.jpg",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\Productos\\Producto1.jpg",
       "PackagePath": "staticwebassets\\images\\Productos\\Producto1.jpg"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\Productos\\Producto2.jpg",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\Productos\\Producto2.jpg",
       "PackagePath": "staticwebassets\\images\\Productos\\Producto2.jpg"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\Productos\\Producto3.jpg",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\Productos\\Producto3.jpg",
       "PackagePath": "staticwebassets\\images\\Productos\\Producto3.jpg"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\Productos\\Producto4.jpg",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\Productos\\Producto4.jpg",
       "PackagePath": "staticwebassets\\images\\Productos\\Producto4.jpg"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\Productos\\Producto5.jpg",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\Productos\\Producto5.jpg",
       "PackagePath": "staticwebassets\\images\\Productos\\Producto5.jpg"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\auth-bg.jpg",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\auth-bg.jpg",
       "PackagePath": "staticwebassets\\images\\auth-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\authentication-bg.jpg",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\authentication-bg.jpg",
       "PackagePath": "staticwebassets\\images\\authentication-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\brands\\bitbucket.png",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\brands\\bitbucket.png",
       "PackagePath": "staticwebassets\\images\\brands\\bitbucket.png"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\brands\\dribbble.png",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\brands\\dribbble.png",
       "PackagePath": "staticwebassets\\images\\brands\\dribbble.png"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\brands\\dropbox.png",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\brands\\dropbox.png",
       "PackagePath": "staticwebassets\\images\\brands\\dropbox.png"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\brands\\github.png",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\brands\\github.png",
       "PackagePath": "staticwebassets\\images\\brands\\github.png"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\brands\\mail_chimp.png",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\brands\\mail_chimp.png",
       "PackagePath": "staticwebassets\\images\\brands\\mail_chimp.png"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\brands\\slack.png",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\brands\\slack.png",
       "PackagePath": "staticwebassets\\images\\brands\\slack.png"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\comingsoon-bg.jpg",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\comingsoon-bg.jpg",
       "PackagePath": "staticwebassets\\images\\comingsoon-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\companies\\img-1.png",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\companies\\img-1.png",
       "PackagePath": "staticwebassets\\images\\companies\\img-1.png"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\companies\\img-2.png",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\companies\\img-2.png",
       "PackagePath": "staticwebassets\\images\\companies\\img-2.png"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\companies\\img-3.png",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\companies\\img-3.png",
       "PackagePath": "staticwebassets\\images\\companies\\img-3.png"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\companies\\img-4.png",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\companies\\img-4.png",
       "PackagePath": "staticwebassets\\images\\companies\\img-4.png"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\companies\\img-5.png",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\companies\\img-5.png",
       "PackagePath": "staticwebassets\\images\\companies\\img-5.png"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\companies\\img-6.png",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\companies\\img-6.png",
       "PackagePath": "staticwebassets\\images\\companies\\img-6.png"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\companies\\img-7.png",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\companies\\img-7.png",
       "PackagePath": "staticwebassets\\images\\companies\\img-7.png"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\companies\\img-8.png",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\companies\\img-8.png",
       "PackagePath": "staticwebassets\\images\\companies\\img-8.png"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\contact.png",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\contact.png",
       "PackagePath": "staticwebassets\\images\\contact.png"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\dashboard\\dashboard-shape-1.png",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\dashboard\\dashboard-shape-1.png",
       "PackagePath": "staticwebassets\\images\\dashboard\\dashboard-shape-1.png"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\dashboard\\dashboard-shape-2.png",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\dashboard\\dashboard-shape-2.png",
       "PackagePath": "staticwebassets\\images\\dashboard\\dashboard-shape-2.png"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\dashboard\\dashboard-shape-3.png",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\dashboard\\dashboard-shape-3.png",
       "PackagePath": "staticwebassets\\images\\dashboard\\dashboard-shape-3.png"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\dashboard\\shape-1.png",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\dashboard\\shape-1.png",
       "PackagePath": "staticwebassets\\images\\dashboard\\shape-1.png"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\dashboard\\upgarde-1.png",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\dashboard\\upgarde-1.png",
       "PackagePath": "staticwebassets\\images\\dashboard\\upgarde-1.png"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\error-404.png",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\error-404.png",
       "PackagePath": "staticwebassets\\images\\error-404.png"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\error-500.png",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\error-500.png",
       "PackagePath": "staticwebassets\\images\\error-500.png"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\error-img.png",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\error-img.png",
       "PackagePath": "staticwebassets\\images\\error-img.png"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\favicon.ico",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\favicon.ico",
       "PackagePath": "staticwebassets\\images\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\logo-dark.png",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\logo-dark.png",
       "PackagePath": "staticwebassets\\images\\logo-dark.png"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\logo-light.png",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\logo-light.png",
       "PackagePath": "staticwebassets\\images\\logo-light.png"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\logo-sm.png",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\logo-sm.png",
       "PackagePath": "staticwebassets\\images\\logo-sm.png"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\maintenance-bg.png",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\maintenance-bg.png",
       "PackagePath": "staticwebassets\\images\\maintenance-bg.png"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\mega-menu.png",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\mega-menu.png",
       "PackagePath": "staticwebassets\\images\\mega-menu.png"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\small\\img-1.jpg",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\small\\img-1.jpg",
       "PackagePath": "staticwebassets\\images\\small\\img-1.jpg"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\small\\img-2.jpg",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\small\\img-2.jpg",
       "PackagePath": "staticwebassets\\images\\small\\img-2.jpg"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\small\\img-3.jpg",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\small\\img-3.jpg",
       "PackagePath": "staticwebassets\\images\\small\\img-3.jpg"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\small\\img-4.jpg",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\small\\img-4.jpg",
       "PackagePath": "staticwebassets\\images\\small\\img-4.jpg"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\small\\img-5.jpg",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\small\\img-5.jpg",
       "PackagePath": "staticwebassets\\images\\small\\img-5.jpg"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\small\\img-6.jpg",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\small\\img-6.jpg",
       "PackagePath": "staticwebassets\\images\\small\\img-6.jpg"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\small\\img-7.jpg",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\small\\img-7.jpg",
       "PackagePath": "staticwebassets\\images\\small\\img-7.jpg"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\users\\avatar-1.png",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\users\\avatar-1.png",
       "PackagePath": "staticwebassets\\images\\users\\avatar-1.png"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\users\\avatar-2.png",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\users\\avatar-2.png",
       "PackagePath": "staticwebassets\\images\\users\\avatar-2.png"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\users\\avatar-3.png",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\users\\avatar-3.png",
       "PackagePath": "staticwebassets\\images\\users\\avatar-3.png"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\users\\avatar-4.png",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\users\\avatar-4.png",
       "PackagePath": "staticwebassets\\images\\users\\avatar-4.png"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\users\\avatar-5.png",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\users\\avatar-5.png",
       "PackagePath": "staticwebassets\\images\\users\\avatar-5.png"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\users\\avatar-6.png",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\users\\avatar-6.png",
       "PackagePath": "staticwebassets\\images\\users\\avatar-6.png"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\users\\avatar-7.png",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\users\\avatar-7.png",
       "PackagePath": "staticwebassets\\images\\users\\avatar-7.png"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\users\\avatar-8.png",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\users\\avatar-8.png",
       "PackagePath": "staticwebassets\\images\\users\\avatar-8.png"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\widget-1.png",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\widget-1.png",
       "PackagePath": "staticwebassets\\images\\widget-1.png"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\widgets-2.png",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\widgets-2.png",
       "PackagePath": "staticwebassets\\images\\widgets-2.png"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\widgets-chart-shape.png",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\widgets-chart-shape.png",
       "PackagePath": "staticwebassets\\images\\widgets-chart-shape.png"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\widgets-shape.png",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\widgets-shape.png",
       "PackagePath": "staticwebassets\\images\\widgets-shape.png"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\widgets-shape2.png",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\images\\widgets-shape2.png",
       "PackagePath": "staticwebassets\\images\\widgets-shape2.png"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\app.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\app.js",
       "PackagePath": "staticwebassets\\js\\app.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\apexcharts-area.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\apexcharts-area.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\apexcharts-area.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\apexcharts-bar.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\apexcharts-bar.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\apexcharts-bar.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\apexcharts-boxplot.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\apexcharts-boxplot.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\apexcharts-boxplot.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\apexcharts-bubble.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\apexcharts-bubble.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\apexcharts-bubble.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\apexcharts-candlestick.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\apexcharts-candlestick.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\apexcharts-candlestick.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\apexcharts-column.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\apexcharts-column.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\apexcharts-column.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\apexcharts-heatmap.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\apexcharts-heatmap.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\apexcharts-heatmap.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\apexcharts-line.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\apexcharts-line.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\apexcharts-line.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\apexcharts-mixed.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\apexcharts-mixed.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\apexcharts-mixed.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\apexcharts-pie.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\apexcharts-pie.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\apexcharts-pie.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\apexcharts-polararea.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\apexcharts-polararea.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\apexcharts-polararea.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\apexcharts-radar.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\apexcharts-radar.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\apexcharts-radar.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\apexcharts-radialbar.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\apexcharts-radialbar.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\apexcharts-radialbar.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\apexcharts-range.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\apexcharts-range.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\apexcharts-range.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\apexcharts-scatter.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\apexcharts-scatter.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\apexcharts-scatter.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\apexcharts-timeline.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\apexcharts-timeline.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\apexcharts-timeline.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\apexcharts-treemap.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\apexcharts-treemap.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\apexcharts-treemap.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\calendar.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\calendar.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\calendar.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\card-draggble.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\card-draggble.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\card-draggble.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\chat.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\chat.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\chat.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\coming-soon.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\coming-soon.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\coming-soon.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\contextMenu.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\contextMenu.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\contextMenu.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\dashboard.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\dashboard.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\dashboard.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\datatables-advanced.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\datatables-advanced.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\datatables-advanced.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\datatables-base.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\datatables-base.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\datatables-base.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\datatables-extension.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\datatables-extension.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\datatables-extension.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\ecommerce-add-product.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\ecommerce-add-product.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\ecommerce-add-product.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\ecommerce-cart.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\ecommerce-cart.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\ecommerce-cart.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\ecommerce-checkout.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\ecommerce-checkout.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\ecommerce-checkout.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\ecommerce-customer-datatables.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\ecommerce-customer-datatables.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\ecommerce-customer-datatables.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\ecommerce-order-datatables.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\ecommerce-order-datatables.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\ecommerce-order-datatables.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\flot.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\flot.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\flot.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\fontawesome.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\fontawesome.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\fontawesome.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\form-advanced.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\form-advanced.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\form-advanced.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\form-bs-maxlength.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\form-bs-maxlength.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\form-bs-maxlength.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\form-datepicker.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\form-datepicker.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\form-datepicker.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\form-datetimepicker.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\form-datetimepicker.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\form-datetimepicker.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\form-editor.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\form-editor.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\form-editor.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\form-element.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\form-element.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\form-element.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\form-mask.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\form-mask.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\form-mask.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\form-rangepicker.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\form-rangepicker.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\form-rangepicker.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\form-select2.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\form-select2.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\form-select2.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\form-touchspin.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\form-touchspin.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\form-touchspin.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\form-typeahead.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\form-typeahead.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\form-typeahead.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\form-validation.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\form-validation.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\form-validation.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\form-wizard.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\form-wizard.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\form-wizard.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\form-xeditable.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\form-xeditable.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\form-xeditable.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\gmaps.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\gmaps.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\gmaps.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\jquery-knob.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\jquery-knob.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\jquery-knob.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\jquery.blockUI.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\jquery.blockUI.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\jquery.blockUI.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\kanban.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\kanban.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\kanban.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\layout.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\layout.js",
       "PackagePath": "staticwebassets\\js\\pages\\layout.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\lightbox.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\lightbox.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\lightbox.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\materialdesign.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\materialdesign.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\materialdesign.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\product-filter-range.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\product-filter-range.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\product-filter-range.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\profile.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\profile.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\profile.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\range-sliders.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\range-sliders.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\range-sliders.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\rating-init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\rating-init.js",
       "PackagePath": "staticwebassets\\js\\pages\\rating-init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\remix-icons-list.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\remix-icons-list.js",
       "PackagePath": "staticwebassets\\js\\pages\\remix-icons-list.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\roundslider.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\roundslider.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\roundslider.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\session-timeout.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\session-timeout.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\session-timeout.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\slick-carousel.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\slick-carousel.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\slick-carousel.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\sortable.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\sortable.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\sortable.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\sparklines.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\sparklines.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\sparklines.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\sweet-alerts.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\sweet-alerts.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\sweet-alerts.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\table-editable.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\table-editable.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\table-editable.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\table-responsive.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\table-responsive.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\table-responsive.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\toaster.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\toaster.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\toaster.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\toastr.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\toastr.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\toastr.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\treeview.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\treeview.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\treeview.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\vector-maps.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\vector-maps.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\vector-maps.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\widgets.init.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\js\\pages\\widgets.init.js",
       "PackagePath": "staticwebassets\\js\\pages\\widgets.init.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\apexcharts\\apexcharts.amd.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\apexcharts\\apexcharts.amd.js",
       "PackagePath": "staticwebassets\\libs\\apexcharts\\apexcharts.amd.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\apexcharts\\apexcharts.common.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\apexcharts\\apexcharts.common.js",
       "PackagePath": "staticwebassets\\libs\\apexcharts\\apexcharts.common.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\apexcharts\\apexcharts.css",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\apexcharts\\apexcharts.css",
       "PackagePath": "staticwebassets\\libs\\apexcharts\\apexcharts.css"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\apexcharts\\apexcharts.esm.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\apexcharts\\apexcharts.esm.js",
       "PackagePath": "staticwebassets\\libs\\apexcharts\\apexcharts.esm.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\apexcharts\\apexcharts.min.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\apexcharts\\apexcharts.min.js",
       "PackagePath": "staticwebassets\\libs\\apexcharts\\apexcharts.min.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\autosize\\autosize.esm.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\apexcharts\\locales\\area_chart-months.js",
+      "PackagePath": "staticwebassets\\libs\\apexcharts\\locales\\area_chart-months.js"
+    },
+    {
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\apexcharts\\locales\\area_chart_basic_design.js",
+      "PackagePath": "staticwebassets\\libs\\apexcharts\\locales\\area_chart_basic_design.js"
+    },
+    {
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\apexcharts\\locales\\area_chart_irregular.js",
+      "PackagePath": "staticwebassets\\libs\\apexcharts\\locales\\area_chart_irregular.js"
+    },
+    {
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\apexcharts\\locales\\brushchart_line.js",
+      "PackagePath": "staticwebassets\\libs\\apexcharts\\locales\\brushchart_line.js"
+    },
+    {
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\autosize\\autosize.esm.js",
       "PackagePath": "staticwebassets\\libs\\autosize\\autosize.esm.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\autosize\\autosize.min.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\autosize\\autosize.min.js",
       "PackagePath": "staticwebassets\\libs\\autosize\\autosize.min.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\block-ui\\blockUI.jquery.json",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\block-ui\\blockUI.jquery.json",
       "PackagePath": "staticwebassets\\libs\\block-ui\\blockUI.jquery.json"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\block-ui\\jquery.blockUI.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\block-ui\\jquery.blockUI.js",
       "PackagePath": "staticwebassets\\libs\\block-ui\\jquery.blockUI.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\bootstrap-datetime-picker\\minify.sh",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\bootstrap-datetime-picker\\minify.sh",
       "PackagePath": "staticwebassets\\libs\\bootstrap-datetime-picker\\minify.sh"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\bootstrap-filestyle2\\LICENSE-MIT",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\bootstrap-filestyle2\\LICENSE-MIT",
       "PackagePath": "staticwebassets\\libs\\bootstrap-filestyle2"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\bootstrap-filestyle2\\bootstrap-filestyle.jquery.json",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\bootstrap-filestyle2\\bootstrap-filestyle.jquery.json",
       "PackagePath": "staticwebassets\\libs\\bootstrap-filestyle2\\bootstrap-filestyle.jquery.json"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\bootstrap-maxlength\\bootstrap-maxlength.min.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\bootstrap-maxlength\\bootstrap-maxlength.min.js",
       "PackagePath": "staticwebassets\\libs\\bootstrap-maxlength\\bootstrap-maxlength.min.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\bootstrap-rating\\bootstrap-rating.css",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\bootstrap-rating\\bootstrap-rating.css",
       "PackagePath": "staticwebassets\\libs\\bootstrap-rating\\bootstrap-rating.css"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\bootstrap-rating\\bootstrap-rating.min.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\bootstrap-rating\\bootstrap-rating.min.js",
       "PackagePath": "staticwebassets\\libs\\bootstrap-rating\\bootstrap-rating.min.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\bootstrap-rating\\deploy.txt",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\bootstrap-rating\\deploy.txt",
       "PackagePath": "staticwebassets\\libs\\bootstrap-rating\\deploy.txt"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\bootstrap-rating\\index.html",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\bootstrap-rating\\index.html",
       "PackagePath": "staticwebassets\\libs\\bootstrap-rating\\index.html"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\bootstrap-touchspin\\jquery.bootstrap-touchspin.min.css",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\bootstrap-touchspin\\jquery.bootstrap-touchspin.min.css",
       "PackagePath": "staticwebassets\\libs\\bootstrap-touchspin\\jquery.bootstrap-touchspin.min.css"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\bootstrap-touchspin\\jquery.bootstrap-touchspin.min.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\bootstrap-touchspin\\jquery.bootstrap-touchspin.min.js",
       "PackagePath": "staticwebassets\\libs\\bootstrap-touchspin\\jquery.bootstrap-touchspin.min.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\bs-custom-file-input\\bs-custom-file-input.min.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\bs-custom-file-input\\bs-custom-file-input.min.js",
       "PackagePath": "staticwebassets\\libs\\bs-custom-file-input\\bs-custom-file-input.min.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\chance\\chance.min.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\chance\\chance.min.js",
       "PackagePath": "staticwebassets\\libs\\chance\\chance.min.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\clipboard\\clipboard.min.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\clipboard\\clipboard.min.js",
       "PackagePath": "staticwebassets\\libs\\clipboard\\clipboard.min.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-autofill-bs5\\License.txt",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-autofill-bs5\\License.txt",
       "PackagePath": "staticwebassets\\libs\\datatables.net-autofill-bs5\\License.txt"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-autofill\\License.txt",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-autofill\\License.txt",
       "PackagePath": "staticwebassets\\libs\\datatables.net-autofill\\License.txt"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-bs5\\License.txt",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-bs5\\License.txt",
       "PackagePath": "staticwebassets\\libs\\datatables.net-bs5\\License.txt"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-buttons-bs5\\License.txt",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-buttons-bs5\\License.txt",
       "PackagePath": "staticwebassets\\libs\\datatables.net-buttons-bs5\\License.txt"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-buttons\\License.txt",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-buttons\\License.txt",
       "PackagePath": "staticwebassets\\libs\\datatables.net-buttons\\License.txt"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-colreorder-bs5\\License.txt",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-colreorder-bs5\\License.txt",
       "PackagePath": "staticwebassets\\libs\\datatables.net-colreorder-bs5\\License.txt"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-colreorder\\License.txt",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-colreorder\\License.txt",
       "PackagePath": "staticwebassets\\libs\\datatables.net-colreorder\\License.txt"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-colreorder\\js\\dataTables.colReorder.min.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-colreorder\\js\\dataTables.colReorder.min.js",
       "PackagePath": "staticwebassets\\libs\\datatables.net-colreorder\\js\\dataTables.colReorder.min.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-colreorder\\js\\dataTables.colReorder.min.mjs",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-colreorder\\js\\dataTables.colReorder.min.mjs",
       "PackagePath": "staticwebassets\\libs\\datatables.net-colreorder\\js\\dataTables.colReorder.min.mjs"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-fixedcolumns-bs5\\License.txt",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-fixedcolumns-bs5\\License.txt",
       "PackagePath": "staticwebassets\\libs\\datatables.net-fixedcolumns-bs5\\License.txt"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-fixedcolumns\\License.txt",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-fixedcolumns\\License.txt",
       "PackagePath": "staticwebassets\\libs\\datatables.net-fixedcolumns\\License.txt"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-fixedheader-bs5\\License.txt",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-fixedheader-bs5\\License.txt",
       "PackagePath": "staticwebassets\\libs\\datatables.net-fixedheader-bs5\\License.txt"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-fixedheader\\License.txt",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-fixedheader\\License.txt",
       "PackagePath": "staticwebassets\\libs\\datatables.net-fixedheader\\License.txt"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-keytable-bs5\\License.txt",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-keytable-bs5\\License.txt",
       "PackagePath": "staticwebassets\\libs\\datatables.net-keytable-bs5\\License.txt"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-keytable\\License.txt",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-keytable\\License.txt",
       "PackagePath": "staticwebassets\\libs\\datatables.net-keytable\\License.txt"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-responsive-bs5\\License.txt",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-responsive-bs5\\License.txt",
       "PackagePath": "staticwebassets\\libs\\datatables.net-responsive-bs5\\License.txt"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-responsive\\License.txt",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-responsive\\License.txt",
       "PackagePath": "staticwebassets\\libs\\datatables.net-responsive\\License.txt"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-rowgroup-bs5\\License.txt",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-rowgroup-bs5\\License.txt",
       "PackagePath": "staticwebassets\\libs\\datatables.net-rowgroup-bs5\\License.txt"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-rowgroup\\License.txt",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-rowgroup\\License.txt",
       "PackagePath": "staticwebassets\\libs\\datatables.net-rowgroup\\License.txt"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-rowreorder-bs5\\License.txt",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-rowreorder-bs5\\License.txt",
       "PackagePath": "staticwebassets\\libs\\datatables.net-rowreorder-bs5\\License.txt"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-rowreorder\\License.txt",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-rowreorder\\License.txt",
       "PackagePath": "staticwebassets\\libs\\datatables.net-rowreorder\\License.txt"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-scroller-bs5\\License.txt",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-scroller-bs5\\License.txt",
       "PackagePath": "staticwebassets\\libs\\datatables.net-scroller-bs5\\License.txt"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-scroller\\License.txt",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-scroller\\License.txt",
       "PackagePath": "staticwebassets\\libs\\datatables.net-scroller\\License.txt"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-searchpanes-bs5\\License.txt",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-searchpanes-bs5\\License.txt",
       "PackagePath": "staticwebassets\\libs\\datatables.net-searchpanes-bs5\\License.txt"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-searchpanes\\License.txt",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-searchpanes\\License.txt",
       "PackagePath": "staticwebassets\\libs\\datatables.net-searchpanes\\License.txt"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-select-bs5\\License.txt",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-select-bs5\\License.txt",
       "PackagePath": "staticwebassets\\libs\\datatables.net-select-bs5\\License.txt"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-select\\License.txt",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net-select\\License.txt",
       "PackagePath": "staticwebassets\\libs\\datatables.net-select\\License.txt"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net\\License.txt",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\datatables.net\\License.txt",
       "PackagePath": "staticwebassets\\libs\\datatables.net\\License.txt"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\daterangepicker\\daterangepicker.css",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\daterangepicker\\daterangepicker.css",
       "PackagePath": "staticwebassets\\libs\\daterangepicker\\daterangepicker.css"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\daterangepicker\\daterangepicker.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\daterangepicker\\daterangepicker.js",
       "PackagePath": "staticwebassets\\libs\\daterangepicker\\daterangepicker.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\daterangepicker\\demo.html",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\daterangepicker\\demo.html",
       "PackagePath": "staticwebassets\\libs\\daterangepicker\\demo.html"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\daterangepicker\\drp.png",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\daterangepicker\\drp.png",
       "PackagePath": "staticwebassets\\libs\\daterangepicker\\drp.png"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\daterangepicker\\index.html",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\daterangepicker\\index.html",
       "PackagePath": "staticwebassets\\libs\\daterangepicker\\index.html"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\daterangepicker\\moment.min.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\daterangepicker\\moment.min.js",
       "PackagePath": "staticwebassets\\libs\\daterangepicker\\moment.min.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\daterangepicker\\package.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\daterangepicker\\package.js",
       "PackagePath": "staticwebassets\\libs\\daterangepicker\\package.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\daterangepicker\\test.html",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\daterangepicker\\test.html",
       "PackagePath": "staticwebassets\\libs\\daterangepicker\\test.html"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\daterangepicker\\website.css",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\daterangepicker\\website.css",
       "PackagePath": "staticwebassets\\libs\\daterangepicker\\website.css"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\daterangepicker\\website.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\daterangepicker\\website.js",
       "PackagePath": "staticwebassets\\libs\\daterangepicker\\website.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\dom-autoscroller\\bundle.es.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\dom-autoscroller\\bundle.es.js",
       "PackagePath": "staticwebassets\\libs\\dom-autoscroller\\bundle.es.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\dom-autoscroller\\bundle.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\dom-autoscroller\\bundle.js",
       "PackagePath": "staticwebassets\\libs\\dom-autoscroller\\bundle.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\dom-autoscroller\\dom-autoscroller.min.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\dom-autoscroller\\dom-autoscroller.min.js",
       "PackagePath": "staticwebassets\\libs\\dom-autoscroller\\dom-autoscroller.min.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\dragula\\dragula.min.css",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\dragula\\dragula.min.css",
       "PackagePath": "staticwebassets\\libs\\dragula\\dragula.min.css"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\dragula\\dragula.min.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\dragula\\dragula.min.js",
       "PackagePath": "staticwebassets\\libs\\dragula\\dragula.min.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\dropzone\\basic.css",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\dropzone\\basic.css",
       "PackagePath": "staticwebassets\\libs\\dropzone\\basic.css"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\dropzone\\dropzone-amd-module.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\dropzone\\dropzone-amd-module.js",
       "PackagePath": "staticwebassets\\libs\\dropzone\\dropzone-amd-module.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\dropzone\\dropzone.css",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\dropzone\\dropzone.css",
       "PackagePath": "staticwebassets\\libs\\dropzone\\dropzone.css"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\dropzone\\dropzone.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\dropzone\\dropzone.js",
       "PackagePath": "staticwebassets\\libs\\dropzone\\dropzone.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\fg-emoji-picker\\emoji-picker-thumb.jpg",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\fg-emoji-picker\\emoji-picker-thumb.jpg",
       "PackagePath": "staticwebassets\\libs\\fg-emoji-picker\\emoji-picker-thumb.jpg"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\fg-emoji-picker\\fgEmojiPicker.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\fg-emoji-picker\\fgEmojiPicker.js",
       "PackagePath": "staticwebassets\\libs\\fg-emoji-picker\\fgEmojiPicker.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\fg-emoji-picker\\full-emoji-list.json",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\fg-emoji-picker\\full-emoji-list.json",
       "PackagePath": "staticwebassets\\libs\\fg-emoji-picker\\full-emoji-list.json"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\fg-emoji-picker\\index.html",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\fg-emoji-picker\\index.html",
       "PackagePath": "staticwebassets\\libs\\fg-emoji-picker\\index.html"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\gmaps\\gmaps.min.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\gmaps\\gmaps.min.js",
       "PackagePath": "staticwebassets\\libs\\gmaps\\gmaps.min.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\gmaps\\jsdoc.json",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\gmaps\\jsdoc.json",
       "PackagePath": "staticwebassets\\libs\\gmaps\\jsdoc.json"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\gmaps\\umd.hbs",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\gmaps\\umd.hbs",
       "PackagePath": "staticwebassets\\libs\\gmaps\\umd.hbs"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\gmaps\\yarn-error.log",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\gmaps\\yarn-error.log",
       "PackagePath": "staticwebassets\\libs\\gmaps\\yarn-error.log"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\gulp-rtlcss\\index.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\gulp-rtlcss\\index.js",
       "PackagePath": "staticwebassets\\libs\\gulp-rtlcss\\index.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\gulp-rtlcss\\test.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\gulp-rtlcss\\test.js",
       "PackagePath": "staticwebassets\\libs\\gulp-rtlcss\\test.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\inputmask\\inputmask.es6.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\inputmask\\inputmask.es6.js",
       "PackagePath": "staticwebassets\\libs\\inputmask\\inputmask.es6.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\inputmask\\inputmask.min.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\inputmask\\inputmask.min.js",
       "PackagePath": "staticwebassets\\libs\\inputmask\\inputmask.min.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\inputmask\\jquery.inputmask.min.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\inputmask\\jquery.inputmask.min.js",
       "PackagePath": "staticwebassets\\libs\\inputmask\\jquery.inputmask.min.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery-contextmenu-js\\jquery.contextMenu.min.css",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery-contextmenu-js\\jquery.contextMenu.min.css",
       "PackagePath": "staticwebassets\\libs\\jquery-contextmenu-js\\jquery.contextMenu.min.css"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery-contextmenu-js\\jquery.contextMenu.min.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery-contextmenu-js\\jquery.contextMenu.min.js",
       "PackagePath": "staticwebassets\\libs\\jquery-contextmenu-js\\jquery.contextMenu.min.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery-contextmenu-js\\jquery.ui.position.min.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery-contextmenu-js\\jquery.ui.position.min.js",
       "PackagePath": "staticwebassets\\libs\\jquery-contextmenu-js\\jquery.ui.position.min.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery-countdown\\jquery.countdown.min.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery-countdown\\jquery.countdown.min.js",
       "PackagePath": "staticwebassets\\libs\\jquery-countdown\\jquery.countdown.min.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery-knob\\jquery.knob.min.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery-knob\\jquery.knob.min.js",
       "PackagePath": "staticwebassets\\libs\\jquery-knob\\jquery.knob.min.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery-sparkline\\Changelog.txt",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery-sparkline\\Changelog.txt",
       "PackagePath": "staticwebassets\\libs\\jquery-sparkline\\Changelog.txt"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery-sparkline\\build.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery-sparkline\\build.js",
       "PackagePath": "staticwebassets\\libs\\jquery-sparkline\\build.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery-sparkline\\jquery.sparkline.min.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery-sparkline\\jquery.sparkline.min.js",
       "PackagePath": "staticwebassets\\libs\\jquery-sparkline\\jquery.sparkline.min.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery-steps\\LICENSE.txt",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery-steps\\LICENSE.txt",
       "PackagePath": "staticwebassets\\libs\\jquery-steps\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery-steps\\steps.jquery.json",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery-steps\\steps.jquery.json",
       "PackagePath": "staticwebassets\\libs\\jquery-steps\\steps.jquery.json"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery-ui-dist\\AUTHORS.txt",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery-ui-dist\\AUTHORS.txt",
       "PackagePath": "staticwebassets\\libs\\jquery-ui-dist\\AUTHORS.txt"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery-ui-dist\\LICENSE.txt",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery-ui-dist\\LICENSE.txt",
       "PackagePath": "staticwebassets\\libs\\jquery-ui-dist\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery-ui-dist\\index.html",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery-ui-dist\\index.html",
       "PackagePath": "staticwebassets\\libs\\jquery-ui-dist\\index.html"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery-ui-dist\\jquery-ui.min.css",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery-ui-dist\\jquery-ui.min.css",
       "PackagePath": "staticwebassets\\libs\\jquery-ui-dist\\jquery-ui.min.css"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery-ui-dist\\jquery-ui.min.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery-ui-dist\\jquery-ui.min.js",
       "PackagePath": "staticwebassets\\libs\\jquery-ui-dist\\jquery-ui.min.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery-ui-dist\\jquery-ui.structure.min.css",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery-ui-dist\\jquery-ui.structure.min.css",
       "PackagePath": "staticwebassets\\libs\\jquery-ui-dist\\jquery-ui.structure.min.css"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery-ui-dist\\jquery-ui.theme.min.css",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery-ui-dist\\jquery-ui.theme.min.css",
       "PackagePath": "staticwebassets\\libs\\jquery-ui-dist\\jquery-ui.theme.min.css"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery-validation\\additional-methods.min.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery-validation\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\libs\\jquery-validation\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery-validation\\jquery.validate.min.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery-validation\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\libs\\jquery-validation\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery.easing\\jquery.easing.compatibility.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery.easing\\jquery.easing.compatibility.js",
       "PackagePath": "staticwebassets\\libs\\jquery.easing\\jquery.easing.compatibility.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery.easing\\jquery.easing.min.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery.easing\\jquery.easing.min.js",
       "PackagePath": "staticwebassets\\libs\\jquery.easing\\jquery.easing.min.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery.repeater\\complex-repeater.html",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery.repeater\\complex-repeater.html",
       "PackagePath": "staticwebassets\\libs\\jquery.repeater\\complex-repeater.html"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery.repeater\\gruntfile.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery.repeater\\gruntfile.js",
       "PackagePath": "staticwebassets\\libs\\jquery.repeater\\gruntfile.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery.repeater\\index.html",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery.repeater\\index.html",
       "PackagePath": "staticwebassets\\libs\\jquery.repeater\\index.html"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery.repeater\\index.pre.html",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery.repeater\\index.pre.html",
       "PackagePath": "staticwebassets\\libs\\jquery.repeater\\index.pre.html"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery.repeater\\jquery-1.11.1.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery.repeater\\jquery-1.11.1.js",
       "PackagePath": "staticwebassets\\libs\\jquery.repeater\\jquery-1.11.1.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery.repeater\\jquery.repeater.min.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery.repeater\\jquery.repeater.min.js",
       "PackagePath": "staticwebassets\\libs\\jquery.repeater\\jquery.repeater.min.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery.repeater\\nested-repeater.html",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery.repeater\\nested-repeater.html",
       "PackagePath": "staticwebassets\\libs\\jquery.repeater\\nested-repeater.html"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery.repeater\\repeater.html",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery.repeater\\repeater.html",
       "PackagePath": "staticwebassets\\libs\\jquery.repeater\\repeater.html"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery.repeater\\repeater.jquery.json",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery.repeater\\repeater.jquery.json",
       "PackagePath": "staticwebassets\\libs\\jquery.repeater\\repeater.jquery.json"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery.repeater\\test-post-parse.php",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery.repeater\\test-post-parse.php",
       "PackagePath": "staticwebassets\\libs\\jquery.repeater\\test-post-parse.php"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery\\jquery.min.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery\\jquery.min.js",
       "PackagePath": "staticwebassets\\libs\\jquery\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery\\jquery.slim.min.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jquery\\jquery.slim.min.js",
       "PackagePath": "staticwebassets\\libs\\jquery\\jquery.slim.min.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jstree\\jstree.min.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jstree\\jstree.min.js",
       "PackagePath": "staticwebassets\\libs\\jstree\\jstree.min.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jszip\\jszip.min.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\jszip\\jszip.min.js",
       "PackagePath": "staticwebassets\\libs\\jszip\\jszip.min.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\leaflet\\leaflet-src.esm.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\leaflet\\leaflet-src.esm.js",
       "PackagePath": "staticwebassets\\libs\\leaflet\\leaflet-src.esm.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\leaflet\\leaflet-src.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\leaflet\\leaflet-src.js",
       "PackagePath": "staticwebassets\\libs\\leaflet\\leaflet-src.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\leaflet\\leaflet.css",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\leaflet\\leaflet.css",
       "PackagePath": "staticwebassets\\libs\\leaflet\\leaflet.css"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\leaflet\\leaflet.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\leaflet\\leaflet.js",
       "PackagePath": "staticwebassets\\libs\\leaflet\\leaflet.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\magnific-popup\\jquery.magnific-popup.min.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\magnific-popup\\jquery.magnific-popup.min.js",
       "PackagePath": "staticwebassets\\libs\\magnific-popup\\jquery.magnific-popup.min.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\magnific-popup\\magnific-popup.css",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\magnific-popup\\magnific-popup.css",
       "PackagePath": "staticwebassets\\libs\\magnific-popup\\magnific-popup.css"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\masonry-layout\\masonry.pkgd.min.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\masonry-layout\\masonry.pkgd.min.js",
       "PackagePath": "staticwebassets\\libs\\masonry-layout\\masonry.pkgd.min.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\metismenu\\metisMenu.min.css",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\metismenu\\metisMenu.min.css",
       "PackagePath": "staticwebassets\\libs\\metismenu\\metisMenu.min.css"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\metismenu\\metisMenu.min.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\metismenu\\metisMenu.min.js",
       "PackagePath": "staticwebassets\\libs\\metismenu\\metisMenu.min.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\moment\\ender.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\moment\\ender.js",
       "PackagePath": "staticwebassets\\libs\\moment\\ender.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\moment\\moment.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\moment\\moment.js",
       "PackagePath": "staticwebassets\\libs\\moment\\moment.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\moment\\package.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\moment\\package.js",
       "PackagePath": "staticwebassets\\libs\\moment\\package.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\node-waves\\waves.min.css",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\node-waves\\waves.min.css",
       "PackagePath": "staticwebassets\\libs\\node-waves\\waves.min.css"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\node-waves\\waves.min.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\node-waves\\waves.min.js",
       "PackagePath": "staticwebassets\\libs\\node-waves\\waves.min.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\parsleyjs\\parsley.min.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\parsleyjs\\parsley.min.js",
       "PackagePath": "staticwebassets\\libs\\parsleyjs\\parsley.min.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\pdfmake\\webpack-standardfonts.config.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\pdfmake\\webpack-standardfonts.config.js",
       "PackagePath": "staticwebassets\\libs\\pdfmake\\webpack-standardfonts.config.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\round-slider\\roundslider.min.css",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\round-slider\\roundslider.min.css",
       "PackagePath": "staticwebassets\\libs\\round-slider\\roundslider.min.css"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\round-slider\\roundslider.min.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\round-slider\\roundslider.min.js",
       "PackagePath": "staticwebassets\\libs\\round-slider\\roundslider.min.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\simplebar\\simplebar.esm.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\simplebar\\simplebar.esm.js",
       "PackagePath": "staticwebassets\\libs\\simplebar\\simplebar.esm.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\simplebar\\simplebar.min.css",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\simplebar\\simplebar.min.css",
       "PackagePath": "staticwebassets\\libs\\simplebar\\simplebar.min.css"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\simplebar\\simplebar.min.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\simplebar\\simplebar.min.js",
       "PackagePath": "staticwebassets\\libs\\simplebar\\simplebar.min.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\slick-carousel\\CONTRIBUTING.markdown",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\slick-carousel\\CONTRIBUTING.markdown",
       "PackagePath": "staticwebassets\\libs\\slick-carousel\\CONTRIBUTING.markdown"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\slick-carousel\\Makefile",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\slick-carousel\\Makefile",
       "PackagePath": "staticwebassets\\libs\\slick-carousel"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\slick-carousel\\README.markdown",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\slick-carousel\\README.markdown",
       "PackagePath": "staticwebassets\\libs\\slick-carousel\\README.markdown"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\slick-carousel\\component.json",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\slick-carousel\\component.json",
       "PackagePath": "staticwebassets\\libs\\slick-carousel\\component.json"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\slick-carousel\\index.html",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\slick-carousel\\index.html",
       "PackagePath": "staticwebassets\\libs\\slick-carousel\\index.html"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\slick-carousel\\slick.jquery.json",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\slick-carousel\\slick.jquery.json",
       "PackagePath": "staticwebassets\\libs\\slick-carousel\\slick.jquery.json"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\sortablejs\\Sortable.min.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\sortablejs\\Sortable.min.js",
       "PackagePath": "staticwebassets\\libs\\sortablejs\\Sortable.min.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\spectrum-colorpicker2\\spectrum.min.css",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\spectrum-colorpicker2\\spectrum.min.css",
       "PackagePath": "staticwebassets\\libs\\spectrum-colorpicker2\\spectrum.min.css"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\spectrum-colorpicker2\\spectrum.min.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\spectrum-colorpicker2\\spectrum.min.js",
       "PackagePath": "staticwebassets\\libs\\spectrum-colorpicker2\\spectrum.min.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\sweetalert2\\sweetalert2.all.min.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\sweetalert2\\sweetalert2.all.min.js",
       "PackagePath": "staticwebassets\\libs\\sweetalert2\\sweetalert2.all.min.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\sweetalert2\\sweetalert2.min.css",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\sweetalert2\\sweetalert2.min.css",
       "PackagePath": "staticwebassets\\libs\\sweetalert2\\sweetalert2.min.css"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\sweetalert2\\sweetalert2.min.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\sweetalert2\\sweetalert2.min.js",
       "PackagePath": "staticwebassets\\libs\\sweetalert2\\sweetalert2.min.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\table-edits\\index.html",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\table-edits\\index.html",
       "PackagePath": "staticwebassets\\libs\\table-edits\\index.html"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\tinymce\\license.txt",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\tinymce\\license.txt",
       "PackagePath": "staticwebassets\\libs\\tinymce\\license.txt"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\tinymce\\tinymce.min.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\tinymce\\tinymce.min.js",
       "PackagePath": "staticwebassets\\libs\\tinymce\\tinymce.min.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\toastr\\demo.html",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\toastr\\demo.html",
       "PackagePath": "staticwebassets\\libs\\toastr\\demo.html"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\toastr\\karma.conf.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\toastr\\karma.conf.js",
       "PackagePath": "staticwebassets\\libs\\toastr\\karma.conf.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\toastr\\toastr-icon.png",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\toastr\\toastr-icon.png",
       "PackagePath": "staticwebassets\\libs\\toastr\\toastr-icon.png"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\toastr\\toastr.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\toastr\\toastr.js",
       "PackagePath": "staticwebassets\\libs\\toastr\\toastr.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\twitter-bootstrap-wizard\\MIT-LICENSE.txt",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\twitter-bootstrap-wizard\\MIT-LICENSE.txt",
       "PackagePath": "staticwebassets\\libs\\twitter-bootstrap-wizard\\MIT-LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\twitter-bootstrap-wizard\\index.html",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\twitter-bootstrap-wizard\\index.html",
       "PackagePath": "staticwebassets\\libs\\twitter-bootstrap-wizard\\index.html"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\twitter-bootstrap-wizard\\jquery.bootstrap.wizard.min.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\twitter-bootstrap-wizard\\jquery.bootstrap.wizard.min.js",
       "PackagePath": "staticwebassets\\libs\\twitter-bootstrap-wizard\\jquery.bootstrap.wizard.min.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\twitter-bootstrap-wizard\\prettify.css",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\twitter-bootstrap-wizard\\prettify.css",
       "PackagePath": "staticwebassets\\libs\\twitter-bootstrap-wizard\\prettify.css"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\twitter-bootstrap-wizard\\prettify.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\twitter-bootstrap-wizard\\prettify.js",
       "PackagePath": "staticwebassets\\libs\\twitter-bootstrap-wizard\\prettify.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\typeahead.js\\bloodhound.min.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\typeahead.js\\bloodhound.min.js",
       "PackagePath": "staticwebassets\\libs\\typeahead.js\\bloodhound.min.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\typeahead.js\\typeahead.bundle.min.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\typeahead.js\\typeahead.bundle.min.js",
       "PackagePath": "staticwebassets\\libs\\typeahead.js\\typeahead.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\faria\\source\\repos\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\typeahead.js\\typeahead.jquery.min.js",
+      "Id": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\wwwroot\\libs\\typeahead.js\\typeahead.jquery.min.js",
       "PackagePath": "staticwebassets\\libs\\typeahead.js\\typeahead.jquery.min.js"
     },
     {

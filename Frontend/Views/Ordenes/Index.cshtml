@@ -5,22 +5,18 @@
 <html lang="en">
 
 <head>
-
     <meta charset="utf-8" />
-    <title>Pricing | Clivax - Admin & Dashboard Template</title>
+    <title>Gestión de Órdenes | Tico Sport Socks</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta content="Premium Multipurpose Admin & Dashboard Template" name="description" />
-    <meta content="Codebucks" name="author" />
+    <meta content="Gestión de órdenes de Tico Sport Socks" name="description" />
+    <meta content="Tico Sport Socks" name="author" />
     <!-- App favicon -->
     <link rel="shortcut icon" href="~/images/favicon.ico">
-
-
     <!-- dark layout js -->
     <script src="~/js/pages/layout.js"></script>
     <link rel="stylesheet" href="~/css/bootstrap.css" />
     <link rel="stylesheet" href="~/css/app.css" />
     <link rel="stylesheet" href="~/css/icons.css" />
-
 </head>
 
 <body>
@@ -33,7 +29,10 @@
             <div class="text-center mb-4">
                 <h1>Gestión de órdenes</h1>
                 <p class="text-muted">Gestiona las órdenes que recibe Tico Sport Socks</p>
-                <button class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#ventaFisicaModal">Registrar Venta Física</button>
+                <button class="btn btn-primary" onclick="location.href='@Url.Action("VentaFisica", "Ordenes")'">
+                    <i class="bi bi-plus-circle me-2"></i>
+                    Registrar Venta Física
+                </button>
             </div>
         </div>
         <div class="container mt-4">
@@ -43,12 +42,14 @@
                     <div class="card" style="height: 730px;">
                         <div class="card-header bg-white">
                             <h5 class="card-title">Conversaciones</h5>
-                            <div class="d-flex justify-content-between">
-                            </div>
                         </div>
                         <div class="card-body">
                             <h6>Pendientes (5)</h6>
                             <div class="list-group">
+                                <button class="list-group-item list-group-item-action">
+                                    <strong>Fabian Arias Artavia</strong>
+                                    <p class="mb-0 text-muted">Hola, tienen medias antideslizantes...</p>
+                                </button>
                                 <button class="list-group-item list-group-item-action">
                                     <strong>Marina López Sandí</strong>
                                     <p class="mb-0 text-muted">Estoy interesada en unas espinilleras...</p>
@@ -65,9 +66,10 @@
                                     <strong>Pablo López</strong>
                                     <p class="mb-0 text-muted">Tienen espinilleras?...</p>
                                 </button>
-                                <button class="list-group-item list-group-item-action">
+                                <button class="list-group-item list-group-item-action"
+                                        onclick="location.href='@Url.Action("DetallesChat", "Ordenes")'">
                                     <strong>Brians Vargas</strong>
-                                    <p class="mb-0 text-muted">A cuanto salen las...</p>
+                                    <p class="mb-0 text-muted">Buenos Dias, a cuánto salen las...</p>
                                 </button>
                                 <button class="list-group-item list-group-item-action">
                                     <strong>Juan Artavia</strong>
@@ -108,7 +110,7 @@
                     </div>
                     <div class="card-footer bg-white" style="border-top: 1px solid #ddd; padding: 10px;">
                         <div class="text-center mb-3">
-                            <button class="btn btn-success btn-lg" style="width: 100%;">Hacer orden</button>
+                            <button class="btn btn-success btn-lg" style="width: 100%;" onclick="location.href='@Url.Action("OrdenesPendientes", "Ordenes")'">Gestionar Pedidos</button>
                         </div>
                         <div class="input-group">
                             <input type="text" class="form-control" placeholder="Escribe tu mensaje aquí..." style="border-radius: 20px;">
@@ -116,8 +118,6 @@
                         </div>
                     </div>
                 </div>
-
-
 
                 <!-- Panel derecho de inventario -->
                 <div class="col-md-4">
@@ -132,8 +132,6 @@
                                 <option>Pérez Zeledón</option>
                             </select>
                             <input type="text" class="form-control mb-3" placeholder="Nombre del producto, SKU..." />
-                            <div class="form-check mb-3">
-                            </div>
                             <h6>Productos más buscados</h6>
                             <div class="list-group">
                                 <div class="d-flex align-items-center justify-content-between border p-2 mb-2">
@@ -144,7 +142,7 @@
                                             <p class="mb-0">COD: 00008776 | Stock: 120</p>
                                         </div>
                                     </div>
-                                    <button class="btn btn-sm btn-success">Detalles</button>
+                                    <button class="btn btn-sm btn-success" onclick="location.href='@Url.Action("DetalleProducto", "Ordenes")'">Detalles</button>
                                 </div>
 
                                 <div class="d-flex align-items-center justify-content-between border p-2 mb-2">
@@ -190,13 +188,14 @@
                                     </div>
                                     <button class="btn btn-sm btn-success">Detalles</button>
                                 </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-
+                                   
         <!-- JAVASCRIPT -->
         <script src="~/libs/jquery/jquery.min.js"></script>
         <script src="~/libs/bootstrap/js/bootstrap.bundle.min.js"></script>

@@ -77,9 +77,9 @@
                             <td>Redes Sociales</td>
                             <td>₡45,000</td>
                             <td>
-                                <button class="btn btn-sm btn-info">Ver</button>
-                                <button class="btn btn-sm btn-secondary">Editar</button>
-                                <button class="btn btn-sm btn-danger">Anular</button>
+                                <button class="btn btn-sm btn-info" data-bs-toggle="modal" data-bs-target="#verOrdenModal">Ver</button>
+                                <button class="btn btn-sm btn-secondary" data-bs-toggle="modal" data-bs-target="#editarOrdenModal">Editar</button>
+                                <button class="btn btn-sm btn-danger" data-bs-toggle="modal" data-bs-target="#anularOrdenModal">Anular</button>
                             </td>
                         </tr>
                         <tr>
@@ -90,9 +90,9 @@
                             <td>Punto de Venta</td>
                             <td>₡15,000</td>
                             <td>
-                                <button class="btn btn-sm btn-info">Ver</button>
-                                <button class="btn btn-sm btn-secondary">Editar</button>
-                                <button class="btn btn-sm btn-danger">Anular</button>
+                                <button class="btn btn-sm btn-info" data-bs-toggle="modal" data-bs-target="#verOrdenModal">Ver</button>
+                                <button class="btn btn-sm btn-secondary" data-bs-toggle="modal" data-bs-target="#editarOrdenModal">Editar</button>
+                                <button class="btn btn-sm btn-danger" data-bs-toggle="modal" data-bs-target="#anularOrdenModal">Anular</button>
                             </td>
                         </tr>
                     </tbody>
@@ -101,6 +101,83 @@
         </div>
     </div>
 
+    <!-- Modal para ver detalles de la orden -->
+    <div class="modal fade" id="verOrdenModal" tabindex="-1" aria-labelledby="verOrdenModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="verOrdenModalLabel">Detalles de la Orden</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <p><strong>ID de la Orden:</strong> 001</p>
+                    <p><strong>Cliente:</strong> María López</p>
+                    <p><strong>Estado:</strong> <span class="badge bg-success">Confirmado</span></p>
+                    <p><strong>Fecha:</strong> 01/12/2024</p>
+                    <p><strong>Canal de Venta:</strong> Redes Sociales</p>
+                    <p><strong>Total:</strong> ₡45,000</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal para editar detalles de la orden -->
+    <div class="modal fade" id="editarOrdenModal" tabindex="-1" aria-labelledby="editarOrdenModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="editarOrdenModalLabel">Editar Orden</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <form>
+                        <div class="mb-3">
+                            <label for="cliente" class="form-label">Cliente</label>
+                            <input type="text" class="form-control" id="cliente" value="María López">
+                        </div>
+                        <div class="mb-3">
+                            <label for="canalVenta" class="form-label">Canal de Venta</label>
+                            <select class="form-select" id="canalVenta">
+                                <option value="Redes Sociales" selected>Redes Sociales</option>
+                                <option value="Punto de Venta">Punto de Venta</option>
+                            </select>
+                        </div>
+                        <div class="mb-3">
+                            <label for="total" class="form-label">Total</label>
+                            <input type="number" class="form-control" id="total" value="45000">
+                        </div>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
+                    <button type="button" class="btn btn-primary">Guardar Cambios</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal para confirmar anulación -->
+    <div class="modal fade" id="anularOrdenModal" tabindex="-1" aria-labelledby="anularOrdenModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="anularOrdenModalLabel">Confirmar Anulación</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <p>¿Estás seguro de que deseas anular la orden <strong>#001</strong>?</p>
+                    <p><strong>Esta acción no se puede deshacer.</strong></p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
+                    <button type="button" class="btn btn-danger">Confirmar Anulación</button>
+                </div>
+            </div>
+        </div>
+    </div>
     
 
         <!-- JAVASCRIPT -->

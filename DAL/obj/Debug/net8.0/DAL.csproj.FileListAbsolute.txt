@@ -9,3 +9,15 @@ C:\Users\faria\source\repos\TicoSportSocksConnect\DAL\obj\Debug\net8.0\DAL.dll
 C:\Users\faria\source\repos\TicoSportSocksConnect\DAL\obj\Debug\net8.0\refint\DAL.dll
 C:\Users\faria\source\repos\TicoSportSocksConnect\DAL\obj\Debug\net8.0\DAL.pdb
 C:\Users\faria\source\repos\TicoSportSocksConnect\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\ferva\OneDrive\Escritorio\@Repositorios-Github\TicoSportSocksConnect\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\ferva\OneDrive\Escritorio\@Repositorios-Github\TicoSportSocksConnect\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\ferva\OneDrive\Escritorio\@Repositorios-Github\TicoSportSocksConnect\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\ferva\OneDrive\Escritorio\@Repositorios-Github\TicoSportSocksConnect\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferva\OneDrive\Escritorio\@Repositorios-Github\TicoSportSocksConnect\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\ferva\OneDrive\Escritorio\@Repositorios-Github\TicoSportSocksConnect\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\ferva\OneDrive\Escritorio\@Repositorios-Github\TicoSportSocksConnect\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ferva\OneDrive\Escritorio\@Repositorios-Github\TicoSportSocksConnect\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+C:\Users\ferva\OneDrive\Escritorio\@Repositorios-Github\TicoSportSocksConnect\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\ferva\OneDrive\Escritorio\@Repositorios-Github\TicoSportSocksConnect\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\ferva\OneDrive\Escritorio\@Repositorios-Github\TicoSportSocksConnect\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\ferva\OneDrive\Escritorio\@Repositorios-Github\TicoSportSocksConnect\DAL\obj\Debug\net8.0\ref\DAL.dll

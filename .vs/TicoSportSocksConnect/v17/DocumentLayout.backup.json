@@ -1,0 +1,368 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCB5A45-9AEB-4325-BDF8-2748AB756B52}|Frontend\\Frontend.csproj|c:\\users\\ferva\\onedrive\\escritorio\\@repositorios-github\\ticosportsocksconnect\\frontend\\views\\ordenes\\ordenespendientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FCB5A45-9AEB-4325-BDF8-2748AB756B52}|Frontend\\Frontend.csproj|solutionrelative:frontend\\views\\ordenes\\ordenespendientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCB5A45-9AEB-4325-BDF8-2748AB756B52}|Frontend\\Frontend.csproj|c:\\users\\ferva\\onedrive\\escritorio\\@repositorios-github\\ticosportsocksconnect\\frontend\\views\\ordenes\\ventafisica.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FCB5A45-9AEB-4325-BDF8-2748AB756B52}|Frontend\\Frontend.csproj|solutionrelative:frontend\\views\\ordenes\\ventafisica.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCB5A45-9AEB-4325-BDF8-2748AB756B52}|Frontend\\Frontend.csproj|c:\\users\\ferva\\onedrive\\escritorio\\@repositorios-github\\ticosportsocksconnect\\frontend\\views\\ordenes\\detalleproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FCB5A45-9AEB-4325-BDF8-2748AB756B52}|Frontend\\Frontend.csproj|solutionrelative:frontend\\views\\ordenes\\detalleproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCB5A45-9AEB-4325-BDF8-2748AB756B52}|Frontend\\Frontend.csproj|c:\\users\\ferva\\onedrive\\escritorio\\@repositorios-github\\ticosportsocksconnect\\frontend\\views\\ordenes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FCB5A45-9AEB-4325-BDF8-2748AB756B52}|Frontend\\Frontend.csproj|solutionrelative:frontend\\views\\ordenes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCB5A45-9AEB-4325-BDF8-2748AB756B52}|Frontend\\Frontend.csproj|c:\\users\\ferva\\onedrive\\escritorio\\@repositorios-github\\ticosportsocksconnect\\frontend\\views\\ordenes\\detalleschat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FCB5A45-9AEB-4325-BDF8-2748AB756B52}|Frontend\\Frontend.csproj|solutionrelative:frontend\\views\\ordenes\\detalleschat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCB5A45-9AEB-4325-BDF8-2748AB756B52}|Frontend\\Frontend.csproj|c:\\users\\ferva\\onedrive\\escritorio\\@repositorios-github\\ticosportsocksconnect\\frontend\\views\\reportes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FCB5A45-9AEB-4325-BDF8-2748AB756B52}|Frontend\\Frontend.csproj|solutionrelative:frontend\\views\\reportes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 61,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:156:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:159:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a83394e3-39c2-4678-a3c8-364b69d78fd3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VentaFisica.cshtml",
+              "DocumentMoniker": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\Views\\Ordenes\\VentaFisica.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\Views\\Ordenes\\VentaFisica.cshtml",
+              "ToolTip": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\Views\\Ordenes\\VentaFisica.cshtml",
+              "RelativeToolTip": "Frontend\\Views\\Ordenes\\VentaFisica.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T23:54:21.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DetalleProducto.cshtml",
+              "DocumentMoniker": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\Views\\Ordenes\\DetalleProducto.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\Views\\Ordenes\\DetalleProducto.cshtml",
+              "ToolTip": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\Views\\Ordenes\\DetalleProducto.cshtml",
+              "RelativeToolTip": "Frontend\\Views\\Ordenes\\DetalleProducto.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T23:53:44.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\Views\\Ordenes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\Views\\Ordenes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\Views\\Ordenes\\Index.cshtml",
+              "RelativeToolTip": "Frontend\\Views\\Ordenes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T23:53:11.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DetallesChat.cshtml",
+              "DocumentMoniker": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\Views\\Ordenes\\DetallesChat.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\Views\\Ordenes\\DetallesChat.cshtml",
+              "ToolTip": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\Views\\Ordenes\\DetallesChat.cshtml",
+              "RelativeToolTip": "Frontend\\Views\\Ordenes\\DetallesChat.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T23:52:58.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdenesPendientes.cshtml",
+              "DocumentMoniker": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\Views\\Ordenes\\OrdenesPendientes.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\Views\\Ordenes\\OrdenesPendientes.cshtml",
+              "ToolTip": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\Views\\Ordenes\\OrdenesPendientes.cshtml",
+              "RelativeToolTip": "Frontend\\Views\\Ordenes\\OrdenesPendientes.cshtml",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAAKsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T23:49:18.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\Views\\Reportes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\Views\\Reportes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ferva\\OneDrive\\Escritorio\\@Repositorios-Github\\TicoSportSocksConnect\\Frontend\\Views\\Reportes\\Index.cshtml",
+              "RelativeToolTip": "Frontend\\Views\\Reportes\\Index.cshtml",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAcwIkAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T23:20:01.88Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

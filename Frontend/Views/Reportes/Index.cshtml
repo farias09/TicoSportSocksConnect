@@ -7,10 +7,10 @@
 <head>
 
     <meta charset="utf-8" />
-    <title>Pricing | Clivax - Admin & Dashboard Template</title>
+    <title>Reportes | Tico Sport Socks</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta content="Premium Multipurpose Admin & Dashboard Template" name="description" />
-    <meta content="Codebucks" name="author" />
+    <meta content="Reportes de Tico Sport Socks" name="description" />
+    <meta content="Tico Sport Socks" name="author" />
     <!-- App favicon -->
     <link rel="shortcut icon" href="~/images/favicon.ico">
 
@@ -20,6 +20,13 @@
     <link rel="stylesheet" href="~/css/bootstrap.css" />
     <link rel="stylesheet" href="~/css/app.css" />
     <link rel="stylesheet" href="~/css/icons.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+
+
+
+    <!-- dark layout js -->
+    <link rel="stylesheet" href="~/js/pages/layout.js" />
+    <link rel="stylesheet" href="~/css/icons.min.css" type="text/css" />
 
 </head>
 
@@ -76,31 +83,78 @@
         <!-- Gráficos y tablas -->
         <div class="row mb-4">
             <!-- Gráficos de ventas -->
-            <div class="col-md-6">
+            <div class="col-xl-6">
+                <div class="card">
+                    <div class="card-body">
+                        <div>
+                        <h5 class="card-title">Equipo de Ventas</h5>
+                        <p class="text-muted">Desempeño de empleados por solicitud procesada</p>
+                    
+
+                    
+                        <div class="bg-light">
+                            <div id="area_chart-months" data-colors='["--bs-danger"]' class="apex-charts" dir="ltr"></div>
+                        </div>
+
+                        
+                        <div class="github-style d-flex align-items-center my-2">
+                            <div class="flex-shrink-0 me-2">
+                                <img class="avatar-2xs rounded" src="~/images/users/avatar-1.png" data-hovercard-user-id="634573" alt="" />
+                            </div>
+                            <div class="flex-grow-1">
+                                <a class="font-size-14 text-dark fw-medium">Empleado 1</a>
+                                <div class="cmeta text-muted font-size-11">
+                                        <span>248</span> Ventas Procesadas
+                                </div>
+                            </div>
+                        </div>
+
+                            <div class="github-style d-flex align-items-center my-2">
+                                <div class="flex-shrink-0 me-2">
+                                    <img class="avatar-2xs rounded" src="~/images/users/avatar-2.png" data-hovercard-user-id="634573" alt="" />
+                                </div>
+                                <div class="flex-grow-1">
+                                    <a class="font-size-14 text-dark fw-medium">Empleado 2</a>
+                                    <div class="cmeta text-muted font-size-11">
+                                        <span>92</span> Ventas Procesadas
+                                    </div>
+                                </div>
+                            </div>
+
+                        <div class="bg-light">
+                            <div id="area_chart-years" data-colors='["--bs-primary"]' class="apex-charts" dir="ltr"></div>
+                        </div>
+
+                    </div>
+                </div>
+                </div><!-- end card -->
+            </div>
+
+            <!-- Gráfico de rotación de inventarios -->
+            <div class="col-xl-6">
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title mb-0">Productos mas Vendidos</h4>
+                        <p class="text-muted">Estadisticas de desempeño basado en popularidad por producto</p>
+
+                        <div id="area_chart_irregular" data-colors='["--bs-primary", "--bs-warning", "--bs-info"]' class="apex-charts" dir="ltr"></div>
+                    </div><!-- end card-body -->
+                </div><!-- end card -->
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-xl-12">
                 <div class="card">
                     <div class="card-body">
                         <h5 class="card-title">Tendencia de Ventas</h5>
                         <p class="text-muted">Evolución de ventas en el tiempo</p>
+                    
                         <div>
-                            <!-- Aquí iría el gráfico -->
-                            <img src="https://via.placeholder.com/500x300?text=Gráfico+de+Rotación+de+Inventarios" alt="Gráfico de inventarios" class="img-fluid">
+                            <div id="brushchart_line2" data-colors='["--bs-success"]' class="apex-charts" dir="ltr"></div>
+                            <div id="brushchart_line" data-colors='["--bs-info"]' class="apex-charts" dir="ltr"></div>
                         </div>
-                    </div>
-                </div>
-
-            </div>
-
-            <!-- Gráfico de rotación de inventarios -->
-            <div class="col-md-6">
-                <div class="card">
-                    <div class="card-body">
-                        <h5 class="card-title">Rotación de Inventarios</h5>
-                        <p class="text-muted">Productos con mayor rotación</p>
-                        <div>
-                            <!-- Aquí iría el gráfico -->
-                            <img src="https://via.placeholder.com/500x300?text=Gráfico+de+Rotación+de+Inventarios" alt="Gráfico de inventarios" class="img-fluid">
-                        </div>
-                    </div>
+                    </div><!-- end card -->
                 </div>
             </div>
         </div>
@@ -112,7 +166,7 @@
                 <div class="card">
                     <div class="card-body">
                         <h5 class="card-title">Desempeño por Producto</h5>
-                        <p class="text-muted">Productos más vendidos y su desempeño</p>
+                        <p class="text-muted">Productos más vendidos y su desempeño (Semestral)</p>
                         <table class="table table-hover">
                             <thead class="table-light">
                                 <tr>
@@ -154,7 +208,7 @@
                         <h5>Exportar Reportes</h5>
                         <p class="text-muted">Descarga los reportes en diferentes formatos</p>
                         <button class="btn btn-primary w-100 mb-2">Exportar PDF</button>
-                        <button class="btn btn-secondary w-100 mb-2">Exportar Excel</button>
+                        <button class="btn btn-secondary w-100 mb-2" onclick="exportarExcel()">Exportar Excel</button>
                         <button class="btn btn-success w-100">Exportar CSV</button>
                     </div>
                 </div>
@@ -170,12 +224,229 @@
         <script src="~/libs/simplebar/simplebar.min.js"></script>
         <script src="~/libs/node-waves/waves.min.js"></script>
 
-        <script src="~/js/app.js"></script>
         <!-- apexcharts -->
         <script src="~/libs/apexcharts/apexcharts.min.js"></script>
-
+        <!-- for basic area chart -->
+        <script src="~/libs/apexcharts/locales/area_chart-months.js"></script>
+        <script src="~/libs/apexcharts/locales/area_chart_irregular.js"></script>
+        <script src="~/libs/apexcharts/locales/area_chart_basic_design.js"></script>
+    
+        <script src="~/libs/moment/moment.js"></script>
+        <script src="~/js/pages/apexcharts-area.init.js"></script>
+        
+        <script src="~/js/app.js"></script>
         <script src="~/js/pages/dashboard.init.js"></script>
 
+    <script>
+        function exportarExcel() {
+            const workbook = XLSX.utils.book_new();
+
+            const worksheet = XLSX.utils.aoa_to_sheet([
+                ["Producto", "Unidades Vendidas", "Ingresos", "Rotación"],
+            ]);
+
+            XLSX.utils.book_append_sheet(workbook, worksheet, "Reporte");
+
+            XLSX.writeFile(workbook, "reporte.xlsx");
+        }
+    </script>
+
+
+     <script>
+           document.addEventListener("DOMContentLoaded", function () {
+
+    var brushchartLine2Colors = getChartColorsArray("brushchart_line2");
+    if (brushchartLine2Colors) {
+        var options = {
+            series: [{
+                name: 'Ganancia Total',
+                data: [
+                    { x: new Date(2022, 0, 1), y: 85000 },
+                    { x: new Date(2022, 1, 1), y: 95000 },
+                    { x: new Date(2022, 2, 1), y: 120000 },
+                    { x: new Date(2022, 3, 1), y: 150000 },
+                    { x: new Date(2022, 4, 1), y: 170000 },
+                    { x: new Date(2022, 5, 1), y: 200000 },
+                    { x: new Date(2022, 6, 1), y: 230000 },
+                    { x: new Date(2022, 7, 1), y: 250000 },
+                    { x: new Date(2022, 8, 1), y: 270000 },
+                    { x: new Date(2022, 9, 1), y: 300000 },
+                    { x: new Date(2022, 10, 1), y: 330000 },
+                    { x: new Date(2022, 11, 1), y: 350000 },
+                    { x: new Date(2023, 0, 1), y: 80000 },
+                    { x: new Date(2023, 1, 1), y: 110000 },
+                    { x: new Date(2023, 2, 1), y: 130000 },
+                    { x: new Date(2023, 3, 1), y: 160000 },
+                    { x: new Date(2023, 4, 1), y: 190000 },
+                    { x: new Date(2023, 5, 1), y: 100000 },
+                    { x: new Date(2023, 6, 1), y: 140000 },
+                    { x: new Date(2023, 7, 1), y: 170000 },
+                    { x: new Date(2023, 8, 1), y: 200000 },
+                    { x: new Date(2023, 9, 1), y: 230000 },
+                    { x: new Date(2023, 10, 1), y: 260000 },
+                    { x: new Date(2023, 11, 1), y: 290000 },
+                    { x: new Date(2024, 0, 1), y: 100000 },
+                    { x: new Date(2024, 1, 1), y: 130000 },
+                    { x: new Date(2024, 2, 1), y: 160000 },
+                    { x: new Date(2024, 3, 1), y: 190000 },
+                    { x: new Date(2024, 4, 1), y: 250000 },
+                    { x: new Date(2024, 5, 1), y: 320000 },
+                    { x: new Date(2024, 6, 1), y: 380000 },
+                    { x: new Date(2024, 7, 1), y: 310000 },
+                    { x: new Date(2024, 8, 1), y: 250000 },
+                    { x: new Date(2024, 9, 1), y: 280000 },
+                    { x: new Date(2024, 10, 1), y: 250000 },
+                    { x: new Date(2024, 11, 1), y: 220000 }
+                ]
+            }],
+            chart: {
+                id: 'chart2',
+                type: 'line',
+                height: 220,
+                toolbar: {
+                    autoSelected: 'pan',
+                    show: false
+                }
+            },
+            colors: brushchartLine2Colors,
+            stroke: {
+                width: 3
+            },
+            dataLabels: {
+                enabled: false
+            },
+            fill: {
+                opacity: 1,
+            },
+            markers: {
+                size: 0
+            },
+            xaxis: {
+                type: 'datetime'
+            },
+            yaxis: {
+                min: 50000,
+                max: 450000
+            },
+            tooltip: {
+                y: {
+                    formatter: function (value) {
+                        return '₡' + value.toLocaleString('es-CR') + ' colones';
+                    }
+                }
+            },
+            legend: {
+                show: true,
+                position: 'top',
+                horizontalAlign: 'right'
+            }
+        };
+
+        var chart = new ApexCharts(document.querySelector("#brushchart_line2"), options);
+        chart.render();
+    }
+
+    var brushchartLineColors = getChartColorsArray("brushchart_line");
+    if (brushchartLineColors) {
+        var optionsLine = {
+            series: [{
+                name: 'Ganancia Total',
+                data: [
+                    { x: new Date(2022, 0, 1), y: 85000 },
+                    { x: new Date(2022, 1, 1), y: 95000 },
+                    { x: new Date(2022, 2, 1), y: 120000 },
+                    { x: new Date(2022, 3, 1), y: 150000 },
+                    { x: new Date(2022, 4, 1), y: 170000 },
+                    { x: new Date(2022, 5, 1), y: 200000 },
+                    { x: new Date(2022, 6, 1), y: 230000 },
+                    { x: new Date(2022, 7, 1), y: 250000 },
+                    { x: new Date(2022, 8, 1), y: 270000 },
+                    { x: new Date(2022, 9, 1), y: 300000 },
+                    { x: new Date(2022, 10, 1), y: 330000 },
+                    { x: new Date(2022, 11, 1), y: 350000 },
+                    { x: new Date(2023, 0, 1), y: 80000 },
+                    { x: new Date(2023, 1, 1), y: 110000 },
+                    { x: new Date(2023, 2, 1), y: 130000 },
+                    { x: new Date(2023, 3, 1), y: 160000 },
+                    { x: new Date(2023, 4, 1), y: 190000 },
+                    { x: new Date(2023, 5, 1), y: 100000 },
+                    { x: new Date(2023, 6, 1), y: 140000 },
+                    { x: new Date(2023, 7, 1), y: 170000 },
+                    { x: new Date(2023, 8, 1), y: 200000 },
+                    { x: new Date(2023, 9, 1), y: 230000 },
+                    { x: new Date(2023, 10, 1), y: 260000 },
+                    { x: new Date(2023, 11, 1), y: 290000 },
+                    { x: new Date(2024, 0, 1), y: 100000 },
+                    { x: new Date(2024, 1, 1), y: 130000 },
+                    { x: new Date(2024, 2, 1), y: 160000 },
+                    { x: new Date(2024, 3, 1), y: 190000 },
+                    { x: new Date(2024, 4, 1), y: 250000 },
+                    { x: new Date(2024, 5, 1), y: 320000 },
+                    { x: new Date(2024, 6, 1), y: 380000 },
+                    { x: new Date(2024, 7, 1), y: 310000 },
+                    { x: new Date(2024, 8, 1), y: 250000 },
+                    { x: new Date(2024, 9, 1), y: 280000 },
+                    { x: new Date(2024, 10, 1), y: 250000 },
+                    { x: new Date(2024, 11, 1), y: 220000 }
+                ]
+            }],
+            chart: {
+                id: 'chart1',
+                height: 130,
+                type: 'area',
+                brush: {
+                    target: 'chart2',
+                    enabled: true
+                },
+                selection: {
+                    enabled: true,
+                    xaxis: {
+                        min: new Date('19 Jun 2023').getTime(),
+                        max: new Date('14 Aug 2023').getTime()
+                    }
+                },
+            },
+            colors: brushchartLineColors,
+            fill: {
+                type: 'gradient',
+                gradient: {
+                    opacityFrom: 0.91,
+                    opacityTo: 0.1,
+                }
+            },
+            xaxis: {
+                type: 'datetime',
+                tooltip: {
+                    enabled: false
+                }
+            },
+            yaxis: {
+                min: 50000,
+                max: 450000,
+                tickAmount: 2,
+                labels: {
+                    formatter: function (value) {
+                        return '₡' + value.toLocaleString('es-CR');
+                    }
+                }
+            },
+            tooltip: {
+                y: {
+                    formatter: function (value) {
+                        return '₡' + value.toLocaleString('es-CR') + ' colones';
+                    }
+                }
+            }
+        };
+
+        var chartLine = new ApexCharts(document.querySelector("#brushchart_line"), optionsLine);
+        chartLine.render();
+    }
+});
+        </script>
+
+
+   
 </body>
 
 </html>
