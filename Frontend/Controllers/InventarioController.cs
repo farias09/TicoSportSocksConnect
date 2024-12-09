@@ -18,7 +18,7 @@ namespace Frontend.Controllers
         }
 
         // GET: InventarioController/Create
-        public ActionResult Create()
+        public ActionResult RegistrarProducto()
         {
             return View();
         }
@@ -26,11 +26,11 @@ namespace Frontend.Controllers
         // POST: InventarioController/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(IFormCollection collection)
+        public ActionResult RegistrarProducto(IFormCollection collection)
         {
             try
             {
-                return RedirectToAction(nameof(Index));
+                return RedirectToAction(nameof(RegistrarProducto));
             }
             catch
             {
@@ -39,7 +39,7 @@ namespace Frontend.Controllers
         }
 
         // GET: InventarioController/Edit/5
-        public ActionResult Edit(int id)
+        public ActionResult EditarProducto()
         {
             return View();
         }
@@ -47,7 +47,7 @@ namespace Frontend.Controllers
         // POST: InventarioController/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, IFormCollection collection)
+        public ActionResult EditarProducto(IFormCollection collection)
         {
             try
             {
