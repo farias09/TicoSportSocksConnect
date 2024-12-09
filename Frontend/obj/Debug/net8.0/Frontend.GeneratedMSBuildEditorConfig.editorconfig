@@ -42,8 +42,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlzdGFPcmRlbmVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/ferva/OneDrive/Escritorio/@Repositorios-Github/TicoSportSocksConnect/Frontend/Views/Ordenes/DetalleProducto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZW5lc1xEZXRhbGxlUHJvZHVjdG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferva/OneDrive/Escritorio/@Repositorios-Github/TicoSportSocksConnect/Frontend/Views/Ordenes/DetallesChat.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZW5lc1xEZXRhbGxlc0NoYXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/ferva/OneDrive/Escritorio/@Repositorios-Github/TicoSportSocksConnect/Frontend/Views/Ordenes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZW5lc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferva/OneDrive/Escritorio/@Repositorios-Github/TicoSportSocksConnect/Frontend/Views/Ordenes/OrdenesPendientes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZW5lc1xPcmRlbmVzUGVuZGllbnRlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferva/OneDrive/Escritorio/@Repositorios-Github/TicoSportSocksConnect/Frontend/Views/Ordenes/VentaFisica.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZW5lc1xWZW50YUZpc2ljYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/ferva/OneDrive/Escritorio/@Repositorios-Github/TicoSportSocksConnect/Frontend/Views/Reportes/Index.cshtml]
